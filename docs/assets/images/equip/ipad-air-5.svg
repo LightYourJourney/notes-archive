@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Designed: Dreamer-Paul -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
+<g id="iPad Mini 6">
+	<path fill="#4D4D4D" d="M29.25,7.75h-3.5c-0.138,0-0.25,0.112-0.25,0.25v0.75h4V8C29.5,7.862,29.388,7.75,29.25,7.75z"/>
+	<path fill="#4D4D4D" d="M34.75,7.75h-3.5C31.112,7.75,31,7.862,31,8v0.75h4V8C35,7.862,34.888,7.75,34.75,7.75z"/>
+	<path fill="#4D4D4D" d="M72.75,7.75h-5.5C67.112,7.75,67,7.862,67,8v0.75h6V8C73,7.862,72.888,7.75,72.75,7.75z"/>
+	<g>
+		<path fill="#1A1A1A" d="M72.5,91.5h-46c-3.314,0-6-2.686-6-6v-71c0-3.314,2.686-6,6-6h46c3.314,0,6,2.686,6,6v71
+			C78.5,88.814,75.814,91.5,72.5,91.5z"/>
+		<path fill="none" stroke="#666666" stroke-width="0.5" stroke-miterlimit="10" d="M72.5,91.5h-46c-3.314,0-6-2.686-6-6v-71
+			c0-3.314,2.686-6,6-6h46c3.314,0,6,2.686,6,6v71C78.5,88.814,75.814,91.5,72.5,91.5z"/>
+	</g>
+	<path fill="#333333" d="M72.5,87.5h-46c-1.105,0-2-0.895-2-2v-71c0-1.105,0.895-2,2-2h46c1.105,0,2,0.895,2,2v71
+		C74.5,86.605,73.605,87.5,72.5,87.5z"/>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="71.6221" y1="88.3166" x2="27.3779" y2="11.6834">
+		<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.15"/>
+		<stop  offset="0.5" style="stop-color:#000000;stop-opacity:0"/>
+	</linearGradient>
+	<path fill="url(#SVGID_1_)" d="M72.5,87.5h-46c-1.105,0-2-0.895-2-2v-71c0-1.105,0.895-2,2-2h46c1.105,0,2,0.895,2,2v71
+		C74.5,86.605,73.605,87.5,72.5,87.5z"/>
+</g>
+</svg>

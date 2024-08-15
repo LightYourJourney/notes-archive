@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Designed: Dreamer-Paul -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="90" height="90" viewBox="0 0 200 200" enable-background="new 0 0 200 200" xml:space="preserve">
+<g id="小米 13">
+	<path fill="#3E3A39" d="M140,168.7c0,6.6-5.4,13.3-12.2,13.3H72.2c-6.7,0-12.2-6.6-12.2-13.3v-139C60,23.1,65.4,19,72.2,19h55.7
+		c6.7,0,12.2,4.1,12.2,10.7V168.7z"/>
+	<path fill="#4C4948" d="M138,167.9c0,4.4-3.6,8.1-8,8.1H70c-4.4,0-8-3.8-8-8.1V33.6c0-4.4,3.6-7.6,8-7.6h60c4.4,0,8,3.3,8,7.6
+		V167.9z"/>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="140.573" y1="171.0868" x2="59.5335" y2="30.7222">
+		<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.15"/>
+		<stop  offset="0.5" style="stop-color:#000000;stop-opacity:0"/>
+	</linearGradient>
+	<path fill="url(#SVGID_1_)" d="M138,167.9c0,4.4-3.6,8.1-8,8.1H70c-4.4,0-8-3.8-8-8.1V33.6c0-4.4,3.6-7.6,8-7.6h60
+		c4.4,0,8,3.3,8,7.6V167.9z"/>
+	<path fill="#1F1E1D" d="M110,20c0,0.5-0.9,1-2,1H92c-1.1,0-2-0.5-2-1s0.9-1,2-1h16C109.1,19,110,19.5,110,20z"/>
+	<circle fill="#1F1E1D" cx="124" cy="22.1" r="1.5"/>
+</g>
+</svg>

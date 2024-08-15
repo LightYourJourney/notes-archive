@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Designed: Dreamer-Paul -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+     width="160" height="90" viewBox="6 45 200 112.5" enable-background="new 0 0 200 112.5" xml:space="preserve">
+<g id="MacBook Pro 2020">
+    <g id="屏幕外壳">
+        <path d="M29.191,143.5l-0.081-0.4c-0.073-0.362-0.11-0.732-0.11-1.1V52.5c0-3.033,2.467-5.5,5.5-5.5h131
+            c3.033,0,5.5,2.467,5.5,5.5V142c0,0.367-0.037,0.737-0.11,1.1l-0.081,0.4H29.191z"/>
+        <path fill="#666666" d="M165.5,47.5c2.761,0,5,2.239,5,5V142c0,0.343-0.035,0.677-0.101,1H29.601
+            c-0.066-0.323-0.101-0.657-0.101-1V52.5c0-2.761,2.239-5,5-5H165.5 M165.5,46.5h-131c-3.308,0-6,2.692-6,6V142
+            c0,0.401,0.041,0.804,0.121,1.199L28.783,144h0.817h140.798h0.817l0.163-0.801c0.08-0.395,0.121-0.798,0.121-1.199V52.5
+            C171.5,49.192,168.808,46.5,165.5,46.5L165.5,46.5z"/>
+    </g>
+    <rect id="屏幕底部条" x="29.5" y="140" fill="#1A1A1A" width="141" height="4"/>
+    <path id="底部梯形" fill="#666666" d="M14,146c0,0,2,2,10,2s144,0,152,0s10-2,10-2H14z"/>
+    <rect id="底部" x="14" y="143" fill="#808080" width="172" height="3"/>
+    <path id="凹槽" fill="#4D4D4D" d="M86,143c0,0,0,2,2,2s22,0,24,0s2-2,2-2H86z"/>
+    <rect id="屏幕" x="33.5" y="53.5" fill="#1A1A1A" width="133" height="83"/>
+
+    <linearGradient id="屏幕阴影_00000168801764718983105110000005278742606694712705_" gradientUnits="userSpaceOnUse" x1="134.595" y1="154.9203" x2="65.405" y2="35.0797">
+        <stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.15"/>
+        <stop  offset="0.5" style="stop-color:#000000;stop-opacity:0"/>
+    </linearGradient>
+
+    <rect id="屏幕阴影" x="33.5" y="53.5" fill="url(#屏幕阴影_00000168801764718983105110000005278742606694712705_)" width="133" height="83"/>
+</g>
+</svg>

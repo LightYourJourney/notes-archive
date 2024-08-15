@@ -1,0 +1,1 @@
+# wsl.conf 与 .wslconfig

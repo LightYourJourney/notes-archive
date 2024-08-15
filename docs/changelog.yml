@@ -1,0 +1,21 @@
+- "2024":
+    - "2024-08-11":
+        - pageupdate:
+            text: 更新了 Home 页的所有板块
+            href: /notes-archive/
+        - function: 新增页脚联系方式，背景雪花 + 线条特效，文章编辑按钮，亮暗模式自动检测与切换，Tidio 在线聊天
+        - newpage:
+            text: 删除原“联系方式”页（联系方式移至页脚），添加“我的项目”页
+            href: /notes-archive/projects.html
+    - "2024-08-04":
+        - function: 各分区标题添加 emoji 😄
+        - newpage:
+            text: 完善文档结构
+            href: /notes-archive/
+        - pageupdate:
+            text: 完成首页建设！
+            href: /notes-archive/
+    - "2024-07-30":
+        - newpage:
+            text: 💻 PC > 🧑‍💻 电脑小队（待更新）
+            href: /notes-archive/pc-guide/pc-squad/
