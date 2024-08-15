@@ -67,7 +67,7 @@ mkdocs serve
 
 ## 笔记动态
 
-![Repo Status](https://repobeats.axiom.co/api/embed/4a9bf61ce86de837edc7c393171a5e2ecdda2d53.svg)
+![Repo Status](https://repobeats.axiom.co/api/embed/e8e3ef5e020b4705bb7d326cbe97114fad81d3db.svg)
 
 ## 声明
 

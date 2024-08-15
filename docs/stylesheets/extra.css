@@ -1,7 +1,9 @@
+/*YouTube 图标颜色*/
 .youtube {
   color: #ee0f0f;
 }
 
+/*心跳动画*/
 @keyframes heart {
   0%,
   40%,
@@ -14,6 +16,8 @@
     transform: scale(1.15);
   }
 }
+
+/* 应用心跳动画的类 */
 .heart {
   animation: heart 1000ms infinite;
 }

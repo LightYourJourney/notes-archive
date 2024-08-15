@@ -1,6 +1,6 @@
 site_name: LYJ 的笔记本 # 网站名称
 site_url: https://lightyourjourney.github.io/notes-archive/ # 网站链接
-repo_name: Notebook # 仓库名称
+repo_name: Notes Archive # 仓库名称
 repo_url: https://github.com/LightYourJourney/notes-archive # 仓库链接
 edit_uri: tree/main/docs
 site_description: LYJ 的笔记本 # 网站描述
@@ -238,7 +238,7 @@ plugins:
   - blog
   - tags
   - offline
-  # - git-authors
+  - git-authors
   - minify:
       minify_html: true
       minify_js: true
@@ -254,9 +254,9 @@ plugins:
       exclude:
         - index.md
         - writeups/AAA.md
-  - git-committers:
-      repository: LightYourJourney/notes-archive
-      branch: main
+  # - git-committers:
+  #     repository: LightYourJourney/notes-archive
+  #     branch: main
   - changelog
 
 watch:

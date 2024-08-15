@@ -34,7 +34,7 @@ INTJ。
   <a href="https://ubuntu.com/" target="_blank"><img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu Pro 24.04 LTS"></a>
   <a href="https://www.apple.com/macos/" target="_blank"><img src="https://skillicons.dev/icons?i=apple" alt="macOS Sonoma"></a>
   <a href="https://www.microsoft.com/windows/" target="_blank"><img src="https://skillicons.dev/icons?i=windows" alt="Windows 11 Pro for Workstations"></a>
-  <a href="https://www.raspberrypi.com/" target="_blank"><img src="https://skillicons.dev/icons?i=raspberrypi" alt="Raspberry Pi OS"></a>
+  <a href="https://www.raspberrypi.com/software/" target="_blank"><img src="https://skillicons.dev/icons?i=raspberrypi" alt="Raspberry Pi OS"></a>
   <a href="https://www.android.com/" target="_blank"><img src="https://skillicons.dev/icons?i=androidstudio" alt="Xiaomi HyperOS powered by Android 14"></a>
   <a href="https://www.apple.com/ipados/" target="_blank"><img src="https://skillicons.dev/icons?i=apple" alt="iPadOS 18"></a>
   <a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux" target="_blank"><img src="https://skillicons.dev/icons?i=redhat" alt="Red Hat Enterprise Linux"></a>

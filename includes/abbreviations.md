@@ -25,3 +25,4 @@
 *[RTFSC]: Read The Fucking Source Code
 *[IRC]: Internet Relay Chat
 *[MIME]: Multipurpose Internet Mail Extensions
+*[GNU]: GNU's not Unix

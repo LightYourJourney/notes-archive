@@ -32,12 +32,32 @@ nostatistics: True
 </div>
 
 <div class="flink-list-item">
-    <a href="https://lightyourjourney.github.io/" title="Yanjin Li" target="_blank">
+    <a href="https://earendelh.github.io/" title="埃伦德尔" target="_blank">
         <div class="flink-item-icon">
-            <img src="./assets/images/links/yjli.png" alt="Yanjin Li">
+            <img src="./assets/images/links/wzh.jpg" alt="埃伦德尔">
         </div>
-        <div class="flink-item-name heti-skip">Yanjin Li</div>
-        <div class="flink-item-desc">半成品 💀</div>
+        <div class="flink-item-name heti-skip">埃伦德尔</div>
+        <div class="flink-item-desc">寄系帕鲁日记</div>
+    </a>
+</div>
+
+<div class="flink-list-item">
+    <a href="https://woyo-i-sllh.github.io/" title="WOYO-I-SLLH" target="_blank">
+        <div class="flink-item-icon">
+            <img src="./assets/images/links/wy.jpg" alt="WOYO-I-SLLH">
+        </div>
+        <div class="flink-item-name heti-skip">WOYO-I-SLLH</div>
+        <div class="flink-item-desc">阿巴阿巴阿巴</div>
+    </a>
+</div>
+
+<div class="flink-list-item">
+    <a href="https://xiaodengwang01.github.io/" title="小登王" target="_blank">
+        <div class="flink-item-icon">
+            <img src="./assets/images/links/wdy.jpeg" alt="小登王">
+        </div>
+        <div class="flink-item-name heti-skip">小登王</div>
+        <div class="flink-item-desc">Xiaodengwang's Blog</div>
     </a>
 </div>
 
