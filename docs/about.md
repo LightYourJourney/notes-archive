@@ -5,6 +5,8 @@ hide:
 
 # :material-account: 关于我
 
+Wubba lubba dub dub. Gubba nub nub doo rah kah.
+
 你好 👋，我是 Cine Philia，一个热爱折腾的大学牲。
 
 目前就读于北京大学应用物理学专业，大二。
