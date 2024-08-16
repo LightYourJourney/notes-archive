@@ -2,6 +2,8 @@
 comment: True
 changelog: True
 nostatistics: True
+hide:
+  - feedback
 ---
 
 # :material-update: 更新记录

@@ -1,3 +1,8 @@
+---
+hide:
+  - feedback
+---
+
 # :material-devices: 我的装备
 
 ## :octicons-device-desktop-16: 电脑

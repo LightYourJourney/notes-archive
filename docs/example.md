@@ -1,3 +1,8 @@
+---
+hide:
+  - feedback
+---
+
 # :fontawesome-solid-sitemap: 站点示例
 
 篇文章是自己给自己的一份备忘录，用于记录 [[:simple-materialformkdocs: **Material for MkDocs**](https://squidfunk.github.io/mkdocs-material/) 主题的使用方法及预览效果，也可以为新手提供一些参考。

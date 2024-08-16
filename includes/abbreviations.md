@@ -1,6 +1,14 @@
 *[AOSP]: Android Open Source Project
 *[API]: Application Programming Interface
 *[BSD]: Berkeley Software Distribution
+*[IE]: Internet Explorer
+*[JVM]: Java Virtual Machine
+*[OS]: Operating System
+*[POSIX]: Portable Operating System Interface
+*[SaaS]: Software as a Service
+*[SDK]: Software Development Kit
+*[SQL]: Structured Query Language
+*[WWW]: World Wide Web
 *[HTML]: Hyper Text Markup Language
 *[W3C]: World Wide Web Consortium
 *[CSS]: Cascading Style Sheets

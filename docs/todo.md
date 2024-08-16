@@ -1,3 +1,8 @@
+---
+hide:
+  - feedback
+---
+
 # :simple-todoist: 待办事项
 
 ## :material-note-text: 站点文章

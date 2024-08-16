@@ -1,3 +1,8 @@
+---
+hide:
+  - feedback
+---
+
 # :simple-codeproject: 我的项目
 
 ## :simple-frontendmentor: 前端项目

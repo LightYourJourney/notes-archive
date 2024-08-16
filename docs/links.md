@@ -2,6 +2,8 @@
 comment: True
 glightbox: False
 nostatistics: True
+hide:
+  - feedback
 ---
 
 # :material-link-plus: 友链
