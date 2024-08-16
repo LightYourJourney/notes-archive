@@ -36,5 +36,5 @@ jobs:
 
     - name: Deploy MkDocs site
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: mkdocs gh-deploy --force
+        GITHUB_TOKEN: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+      run: mkdocs gh-deploy --force --remote-name origin
