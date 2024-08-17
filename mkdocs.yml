@@ -1486,5 +1486,7 @@ nav:
       - 好文转载:
           - vault/ga/index.md
           - 提问的智慧: vault/ga/how-to-ask.md
+      - 网站万花筒:
+          - vault/websites.md
   - 🗑️ Trash:
       - trash/index.md
