@@ -22,26 +22,186 @@ hide:
 
 </div>
 
-## 自学指南
+## :octicons-book-16: 实用指南
+
+### :material-book-edit: 生存手册
 
 <div class="grid cards" markdown>
 
--   :simple-internetcomputer:{ .lg .middle } __[CS自学指南](https://csdiy.wiki/)__ | 一本计算机的自学指南
--   :fontawesome-solid-computer:{ .lg .middle } __[CS 自学社区](https://www.learncs.site/)__ | CS 学习路线与资源
--   :material-laptop:{ .lg .middle } __[清华大学计算机系课程攻略](https://rekcarc-tsc-uht.readthedocs.io/en/latest/)__ | THU CS
+-   :fire:{ .lg .middle } __[在  GitHub 上大学](https://workhard.eu.org/)__ | 各高校课程资源
+-   :fontawesome-solid-school-flag:{ .lg .middle } __[各高校经验分享](https://github.com/nwuzmedoutlook/career-plan?tab=readme-ov-file)__ | 飞跃手册
+-   :material-account-school:{ .lg .middle } __[SurviveSJTU](https://survivesjtu.gitbook.io/survivesjtumanual)__ | 上海交大生存手册
+-   :material-account-school:{ .lg .middle } __[上海交通大学大学飞跃手册](https://survivesjtu.github.io/SJTU-Application/#/)__ | SJTU
+-   :fontawesome-solid-school:{ .lg .middle } __[THU-feiyue](https://feiyue.online/)__ | 清华大学飞跃手册
 -   :material-remote-desktop:{ .lg .middle } __[浙江大学课程攻略共享计划](https://qsctech.github.io/zju-icicles/)__ | ZJU
+-   :material-remote-desktop:{ .lg .middle } __[浙大数科飞跃手册](http://www.math.zju.edu.cn/38102/list.htm)__ | ZJU Math
+-   :material-remote-desktop:{ .lg .middle } __[浙大信电指南](http://www.isee.zju.edu.cn/jyjl/list.htm)__ | ZJU ISEE
+-   :material-database:{ .lg .middle } __[清华大学飞跃数据库](https://database.feiyue.online/)__ | THU Database
+-   :material-butterfly:{ .lg .middle } __[华工手册](https://www.gzic.online/)__ | 华南理工大学信息聚合
+-   :flying_saucer:{ .lg .middle } __[华中大电气飞跃手册](https://github.com/LHYi/Feiyue_for_ECE)__ | HUST ECE
+-   :flying_saucer:{ .lg .middle } __[华中大计算机飞跃手册](https://hustcsrun.gitbook.io/23fall)__ | HUST CS
+-   :flying_saucer:{ .lg .middle } __[华科 OEI&SES 飞跃手册](https://hust-feiyue.github.io/)__ | HUST
+-   :flying_disc:{ .lg .middle } __[电力电子飞跃手册](https://flyingbrochure.org/)__ | PE Flying
+-   :simple-flyway:{ .lg .middle } __[上海大学溯源手册](https://shuosc.github.io/fly/)__ | SHUFly
+-   :butterfly:{ .lg .middle } __[USTC 飞跃网站](https://ustcflyer.com/welcome)__ | USTC 飞跃编辑部
+-   :butterfly:{ .lg .middle } __[科大飞跃手册](https://www.ustcaf.org/news/latest-news/246-2014-feiyue-book-download)__ | USTC
+-   :material-fire:{ .lg .middle } __[南科手册](https://sustech.online/)__ | SUSTecher
+-   :material-fire:{ .lg .middle } __[南方科技大学飞跃手册](https://sustech-application.com/#/)__ | SUSTech
+-   :material-fire:{ .lg .middle } __[南方科技大学飞跃手册](https://sustech-application.github.io/2019-Fall/#/)__ | 2019-Fall
+-   :footprints:{ .lg .middle } __[东南大学飞跃手册](https://www.yuque.com/2020seufly/guide)__ | 2020届
+-   :footprints:{ .lg .middle } __[东南大学飞跃手册](https://telotic.gitbook.io/seu_abroad_2016)__ | 2016
+-   :simple-fireflyiii:{ .lg .middle } __[四川大学飞跃手册](https://scu-flying.com/#/)__ | SCU
+-   :fontawesome-solid-house-chimney-user:{ .lg .middle } __[湖南大学飞跃手册](https://www.hnufly.cn/)__ | HNU
+-   :fontawesome-solid-house-chimney-crack:{ .lg .middle } __[四川师范大学-飞跃手册](https://www.sicnuwiki.com/#/)__ | SICNU
+-   :fontawesome-solid-house-flood-water:{ .lg .middle } __[安徽大学飞跃手册](https://www.ahu.wiki/#/)__ | AHU
+-   :material-warehouse:{ .lg .middle } __[南京工业大学飞跃手册](https://github.com/yaoshun123/FLY_NJTech)__ | NJTech
+-   :material-math-compass:{ .lg .middle } __[自动化系毕业手册](https://dagrad.site/)__ | DA-GRAD
+-   :material-lighthouse:{ .lg .middle } __[武汉大学数统飞跃手册](https://www.yuque.com/2020whumathstat/fly-sheet)__ | WHU Math
+-   :material-greenhouse:{ .lg .middle } __[Awesome-XJTLU](https://awesome-xjtlu.github.io/wiki/#/)__ | XJTLU
+-   :simple-lighthouse:{ .lg .middle } __[南大电子飞跃手册](https://picture.iczhiku.com/weixin/message1630843323166.html)__ | NJU ECE
+-   :material-bus-articulated-end:{ .lg .middle } __[NKUCS.ICU](https://nkucs.icu/#/)__ | 南开计算机
+-   :material-bus-articulated-front:{ .lg .middle } __[NKUSE.ICU](https://nkuse.icu/#/)__ | 南开软院
+-   :simple-leanpub:{ .lg .middle } __[华东理工大学飞跃手册](https://ecust-leap.github.io/)__ | ECUST
+
+</div>
+
+### :material-foot-print: 自学路线
+
+1. :technologist: **计算机 CS**
+
+    1. :material-routes: **全局路线**
+
+    <div class="grid cards" markdown>
+
+    -   :simple-internetcomputer:{ .lg .middle } __[CS自学指南](https://csdiy.wiki/)__ | 一本计算机的自学指南
+    -   :fontawesome-solid-computer:{ .lg .middle } __[CS 自学社区](https://www.learncs.site/)__ | CS 学习路线与资源
+    -   :material-laptop:{ .lg .middle } __[清华大学计算机系课程攻略](https://rekcarc-tsc-uht.readthedocs.io/en/latest/)__ | THU CS
+
+    </div>
+
+    2. :material-language-lua: **编程语言**
+
+    - :material-language-c: **C/C++**
+
+    <div class="grid cards" markdown>
+
+    -   :material-language-cpp:{ .lg .middle } __[现代 C++ 并发编程教程](https://mq-b.github.io/ModernCpp-ConcurrentProgramming-Tutorial/)__ | 教案、代码
+
+    </div>
+
+    - :material-language-python: **Python**
+
+    <div class="grid cards" markdown>
+
+    -   :fontawesome-brands-python:{ .lg .middle } __[Python 100 Days](https://github.com/jackfrued/Python-100-Days)__ | 从新手到大师
+
+    </div>
+
+    - :material-language-r: **R**
+
+    <div class="grid cards" markdown>
+
+    -   :material-language-r:{ .lg .middle } __[R 语言材料](https://github.com/XiangyunHuang/R-Tutorial)__ | R Tutorial
+    -   :material-language-r:{ .lg .middle } __[R 语言数据科学导论](https://ds-r.leovan.tech/)__ | R & DS
+    -   :material-language-r:{ .lg .middle } __[Data Science *R*](https://github.com/ujjwalkarn/DataScienceR)__ | R for DS
+    -   :material-language-r:{ .lg .middle } __[Advanced R](https://adv-r.hadley.nz/)__ | 2nd Edition
+    -   :material-language-r:{ .lg .middle } __[R for Data Science (2e)](https://r4ds.hadley.nz/)__ | R4DS
+    -   :material-language-r:{ .lg .middle } __[中文 R 语言入门书](https://github.com/zhjx19/introR)__ | introR
+    -   :material-language-r:{ .lg .middle } __[R 语言项目](https://github.com/Mounment/R-Project)__ | R Project
+    -   :material-language-r:{ .lg .middle } __[R 语言学习资料](https://github.com/harryprince/R-Tutor)__ | R Tutor
+    -   :material-language-r:{ .lg .middle } __[R 语言忍者秘笈](https://bookdown.org/yihui/r-ninja/)__ | R Ninja
+    -   :material-language-r:{ .lg .middle } __[用 R 实现的各种算法](https://github.com/TheAlgorithms/R)__ | R Algo
+    -   :material-language-r:{ .lg .middle } __[R Exercises](https://github.com/dmpe/R)__ | R 语言练习
+
+    </div>
+
+    - :material-language-javascript: **JavaScript**
+
+    <div class="grid cards" markdown>
+
+    -   :material-language-javascript:{ .lg .middle } __[JS The Right Way](https://jstherightway.org/zh-cn/)__ | JS 之道
+
+    </div>
+
+    - :material-language-typescript: **TypeScript**
+
+    <div class="grid cards" markdown>
+
+    </div>
+
+    - :material-language-java: **Java**
+
+    <div class="grid cards" markdown>
+
+    -   :material-language-java:{ .lg .middle } __[Java 学习 + 面试指南](https://javaguide.cn/)__ | JavaGuide
+
+    </div>
+
+    - :material-language-rust: **Rust**
+
+    <div class="grid cards" markdown>
+
+    -   :fontawesome-brands-rust:{ .lg .middle } __[Rust Course](https://course.rs/about-book.html)__ | Rust 语言圣经
+    -   :fontawesome-brands-rust:{ .lg .middle } __[Rust 程序设计语言](https://kaisery.github.io/trpl-zh-cn/)__ | 简体中文版
+
+    </div>
+
+    - :material-language-go: **Go**
+
+    <div class="grid cards" markdown>
+
+    </div>
+
+    - :material-language-haskell: **Haskell**
+
+    <div class="grid cards" markdown>
+
+    </div>
+
+    - :simple-gnubash: Shell
+
+    <div class="grid cards" markdown>
+
+    -   :material-bash:{ .lg .middle } __[Bash Guide](https://github.com/Idnan/bash-guide)__ | Bash 基础用法
+    -   :simple-fishshell:{ .lg .middle } __[命令行的艺术](https://github.com/jlevy/the-art-of-command-line)__ | TAOCL
+
+    </div>
+
+    1. :simple-linux: Linux
+
+    <div class="grid cards" markdown>
+
+    -   :fontawesome-brands-linux:{ .lg .middle } __[Harden Linux](https://github.com/trimstray/the-practical-linux-hardening-guide)__ | Linux 安全指南
+    -   :fontawesome-brands-linux:{ .lg .middle } __[
+    -   :fontawesome-brands-linux:{ .lg .middle } __[
+    -   :fontawesome-brands-linux:{ .lg .middle } __[
+    -   :fontawesome-brands-linux:{ .lg .middle } __[
+    -   :fontawesome-brands-linux:{ .lg .middle } __[
+
+    </div>
+
+    1. :material-code-tags-check: **其他**
+
+    - :simple-tensorflow: 深度学习
+
+    <div class="grid cards" markdown>
+
+    -   :material-slot-machine:{ .lg .middle } __[动手学深度学习](https://zh.d2l.ai/)__ | 能运行、可讨论
+    -   :simple-pytorch:{ .lg .middle } __[PyTorch Handbook](https://github.com/zergtant/pytorch-handbook)__ | PyTorch 入门
+
+    </div>
+
+2. :material-math-compass: **数学**
+
+<div class="grid cards" markdown>
+
 -   :material-math-integral:{ .lg .middle } __[统计学自学指南](https://xuankaiwang.github.io/)__ | 统计学的自学指南
--   :material-slot-machine:{ .lg .middle } __[动手学深度学习](https://zh.d2l.ai/)__ | 能运行、可讨论
--   :material-language-java:{ .lg .middle } __[Java 学习 + 面试指南](https://javaguide.cn/)__ | JavaGuide
--   :fontawesome-brands-python:{ .lg .middle } __[Python 100 Days](https://github.com/jackfrued/Python-100-Days)__ | 从新手到大师
--   :simple-pytorch:{ .lg .middle } __[PyTorch Handbook](https://github.com/zergtant/pytorch-handbook)__ | PyTorch 入门
--   :fontawesome-brands-rust:{ .lg .middle } __[Rust Course](https://course.rs/about-book.html)__ | Rust 语言圣经
 
 </div>
 
 ## :simple-gamedeveloper: 开发利器
 
-### :simple-git: 代码托管服务
+### :simple-git: 代码托管
 
 <div class="grid cards" markdown>
 
@@ -62,6 +222,72 @@ hide:
 -   :simple-serverfault:{ .lg .middle } __[Server Fault](https://serverfault.com/)__ | 服务器，网管问答
 -   :simple-freebsd:{ .lg .middle } __[Unix & Linux](https://unix.stackexchange.com/)__ | *nix 问题问答
 -   :simple-ubuntu:{ .lg .middle } __[Ask Ubuntu](https://askubuntu.com/)__ | Ubuntu 问题问答
+
+</div>
+
+### :material-file-document: 文档 Wiki
+
+1. :simple-linux: Linux
+
+<div class="grid cards" markdown>
+
+-   :material-linux:{ .lg .middle } __[Kernel Doc](https://docs.kernel.org/)__ | Linux 内核文档
+-   :simple-archlinux:{ .lg .middle } __[Arch Wiki](https://wiki.archlinux.org/title/Main_page)__ | 最强大的 Linux 文档
+-   :simple-archlinux:{ .lg .middle } __[Arch Linux 中文维基](https://wiki.archlinuxcn.org/wiki/%E9%A6%96%E9%A1%B5)__ | 中文版
+-   :simple-gentoo:{ .lg .middle } __[Gentoo Wiki](https://wiki.gentoo.org/wiki/Main_Page)__ | Gentoo Linux 文档
+-   :simple-debian:{ .lg .middle } __[Debian Wiki](https://wiki.debian.org/zh_CN/FrontPage)__ | Debian 维基
+-   :simple-debian:{ .lg .middle } __[Debian Docs](https://www.debian.org/doc/)__ | Debian 说明文档
+-   :simple-redhat:{ .lg .middle } __[RHEL Docs](https://docs.redhat.com/zh_hans/documentation/red_hat_enterprise_linux/9)__ | RHEL 文档
+-   :material-linux-mint:{ .lg .middle } __[Linux Mint Doc](https://linuxmint.com/documentation.php)__ | linuxmint 文档
+-   :simple-manjaro:{ .lg .middle } __[Manjaro Wiki](https://wiki.manjaro.org/index.php/Main_Page)__ | Manjaro 文档
+-   :simple-alpinelinux:{ .lg .middle } __[Alpine Wiki](https://wiki.alpinelinux.org/wiki/Main_Page)__ | Alpine Linux 文档
+-   :simple-almalinux:{ .lg .middle } __[AlmaLinux Wiki](https://wiki.almalinux.org/)__ | AlmaLinux 文档
+-   :simple-rockylinux:{ .lg .middle } __[Rocky Linux Wiki](https://wiki.rockylinux.org/)__ | Rocky 文档
+-   :simple-artixlinux:{ .lg .middle } __[Artix Wiki](https://wiki.artixlinux.org/)__ | Artix Linux 文档
+-   :simple-kalilinux:{ .lg .middle } __[Kali Linux Docs](https://www.kali.org/docs/)__ | Kali 文档
+-   :material-linux:{ .lg .middle } __[WSL Docs](https://learn.microsoft.com/zh-cn/windows/wsl/)__ | WSL 中文文档
+-   :material-linux:{ .lg .middle } __[Dev on Win with WSL](https://dowww.spencerwoo.com/)__ | WSL 开发
+-   :fontawesome-brands-linux:{ .lg .middle } __[Linux From Scratch](https://www.linuxfromscratch.org/)__ | LFS
+-   :fontawesome-brands-linux:{ .lg .middle } __[Linux 101](https://101.lug.ustc.edu.cn/)__ | USTC LUG 101 讲义
+
+</div>
+
+2. :material-search-web: 知识查阅
+
+<div class="grid cards" markdown>
+
+-   :simple-w3schools:{ .lg .middle } __[W3Schools](https://www.w3schools.com/)__ | Web 技术教程
+-   :simple-mdnwebdocs:{ .lg .middle } __[MDN Web Docs](https://developer.mozilla.org/zh-CN/)__ | Web 技术文档
+-   :simple-freecodecamp:{ .lg .middle } __[DevDocs](https://devdocs.io/)__ | 开发文档聚合
+-   :simple-wikipedia:{ .lg .middle } __[OI Wiki](https://oi-wiki.org/)__ | :star2: ICPC for everyone
+-   :notebook:{ .lg .middle } __[未央书院学习资料共享计划](https://weyoung-learn.github.io/)__ | 2.0
+-   :fontawesome-solid-house-crack:{ .lg .middle } __[地震“学”科研入门教程](https://seismo-learn.org/seismology101/#)__ | seismo
+-   :material-share:{ .lg .middle } __[lcomplete 的技术分享](https://tech.codelc.com/)__ | 技术&效率
+
+</div>
+
+### :simple-stylelint: 风格指南
+
+<div class="grid cards" markdown>
+
+-   :material-format-line-style:{ .lg .middle } __[中文技术文档的写作规范](https://github.com/ruanyf/document-style-guide)__ | 阮一峰
+
+</div>
+
+### :simple-searxng: 博客框架
+
+<div class="grid cards" markdown>
+
+-   :simple-hexo:{ .lg .middle } __[Hexo](https://hexo.io/zh-cn/)__ | 快速、简洁且高效的博客框架
+-   :simple-hugo:{ .lg .middle } __[Hugo](https://gohugo.io/)__ | 最快的静态网站生成器
+-   :simple-vuedotjs:{ .lg .middle } __[VuePress](https://vuepress.vuejs.org/)__ | Vue 驱动的 SSG
+-   :simple-vitepress:{ .lg .middle } __[VitePress](https://vitepress.dev/)__ | Vite&Vue 驱动的 SSG
+-   :simple-materialformkdocs:{ .lg .middle } __[MkDocs](https://www.mkdocs.org/)__ | Project Docs With MD.
+-   :simple-astro:{ .lg .middle } __[Astro](https://astro.build/)__ | 内容驱动的网站框架
+-   :simple-docusaurus:{ .lg .middle } __[Docusaurus](https://docusaurus.io/)__ | 专注内容，构建网站
+-   :simple-gatsby:{ .lg .middle } __[Gatsby](https://www.gatsbyjs.com/)__ | React 驱动
+-   :simple-wordpress:{ .lg .middle } __[WordPress](https://wordpress.org/)__ | 世界最大的 CMS
+-   :simple-typo3:{ .lg .middle } __[Typecho](https://typecho.org/)__ | 一个简洁的博客系统
 
 </div>
 
@@ -141,7 +367,11 @@ hide:
 <div class="grid cards" markdown>
 
 -   :material-run:{ .lg .middle } __[润学](https://github.com/The-Run-Philosophy-Organization/run)__ | 润学全球官方指定 GitHub
+-   :fontawesome-solid-flag-usa:{ .lg .middle } __[一亩三分地](https://www.1point3acres.com/)__ | 北美华人社区
 -   :fontawesome-solid-earth-americas:{ .lg .middle } __[润美国网](https://www.meiguo.run/)__ | 先润带动后润
+-   :material-earth:{ .lg .middle } __[NJUPHY留学分享](https://jialanxin.github.io/njuphy-/)__ | 南大物理
+-   :fontawesome-solid-earth-europe:{ .lg .middle } __[欧洲留学飞跃手册](https://chaoli.club/index.php/6978/0)__ | Europe
+-   :material-earth-plus:{ .lg .middle } __[Open CS Application](https://opencs.app/)__ | CS 申请
 
 </div>
 
@@ -153,5 +383,31 @@ hide:
 
 -   :material-keyboard:{ .lg .middle } __[DaziDazi](https://dazidazi.com/)__ | 在线打字练习
 -   :material-keyboard-tab:{ .lg .middle } __[Keybr](https://www.keybr.com/)__ | Typing Practice
+
+</div>
+
+## :free: 白嫖资源
+
+### 影视资源
+
+<div class="grid cards" markdown>
+
+-   :material-video:{ .lg .middle } __[全民影视](https://www.daga.cc/)__ | VIP 视频解析
+
+</div>
+
+## :simple-studyverse: 学校导航
+
+### 学校资源
+
+<div class="grid cards" markdown>
+
+</div>
+
+### 民间整理
+
+<div class="grid cards" markdown>
+
+-   :simple-esotericsoftware:{ .lg .middle } __[北大软设课程文档](https://pku-software.github.io/)__ | 软件设计实践
 
 </div>

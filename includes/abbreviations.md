@@ -34,3 +34,7 @@
 *[IRC]: Internet Relay Chat
 *[MIME]: Multipurpose Internet Mail Extensions
 *[GNU]: GNU's not Unix
+*[i18n]: internationalization
+*[L10n]: localization
+*[g11n]: globalization
+*[GILT]:globalization, internationalization, localization and translation
