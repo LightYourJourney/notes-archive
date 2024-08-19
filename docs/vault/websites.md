@@ -77,7 +77,7 @@ hide:
     -   :fontawesome-solid-computer:{ .lg .middle } __[CS 自学社区](https://www.learncs.site/)__ | CS 学习路线与资源
     -   :material-laptop:{ .lg .middle } __[清华大学计算机系课程攻略](https://rekcarc-tsc-uht.readthedocs.io/en/latest/)__ | THU
 
-    -   :map:{ .lg .middle } __[Developer Roadmap](https://roadmap.sh/)__ | Dev 路线图
+    -   :map:{ .lg .middle } __[Developer Roadmap](https://roadmap.sh/)__ | Dev 路线
 
     </div>
 
@@ -87,8 +87,8 @@ hide:
 
     <div class="grid cards" markdown>
 
-    -   :material-language-cpp:{ .lg .middle } __[现代 C++ 并发编程教程](https://mq-b.github.io/ModernCpp-ConcurrentProgramming-Tutorial/)__ | 教案&代码
-    -   :material-language-cpp:{ .lg .middle } __[C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)__ | C++ 核心指南
+    -   :material-language-cpp:{ .lg .middle } __[现代 C++ 并发编程教程](https://mq-b.github.io/ModernCpp-ConcurrentProgramming-Tutorial/)__ | 教案
+    -   :material-language-cpp:{ .lg .middle } __[C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)__ | 核心指南
 
     </div>
 
@@ -97,8 +97,8 @@ hide:
     <div class="grid cards" markdown>
 
     -   :fontawesome-brands-python:{ .lg .middle } __[Python 100 Days](https://github.com/jackfrued/Python-100-Days)__ | 从新手到大师
-    -   :fontawesome-brands-python:{ .lg .middle } __[30 days of Python](https://github.com/Asabeneh/30-Days-Of-Python)__ | 30 天学 Python
-    -   :fontawesome-brands-python:{ .lg .middle } __[Python best practices guidebook](https://docs.python-guide.org/)__ | 最佳实践
+    -   :fontawesome-brands-python:{ .lg .middle } __[30 days of Python](https://github.com/Asabeneh/30-Days-Of-Python)__ | 30 天
+    -   :fontawesome-brands-python:{ .lg .middle } __[Python practices guide](https://docs.python-guide.org/)__ | 实践
 
     </div>
 
@@ -152,7 +152,7 @@ hide:
 
     -   :fontawesome-brands-rust:{ .lg .middle } __[Rust Course](https://course.rs/about-book.html)__ | Rust 语言圣经
     -   :fontawesome-brands-rust:{ .lg .middle } __[Rust 程序设计语言](https://kaisery.github.io/trpl-zh-cn/)__ | 简体中文版
-    -   :fontawesome-brands-rust:{ .lg .middle } __[给初学者的Rust中文教程](https://yar999.gitbook.io/rustprimer)__ | Rust Primer
+    -   :fontawesome-brands-rust:{ .lg .middle } __[给初学者的Rust中文教程](https://yar999.gitbook.io/rustprimer)__ | 初学者
 
     </div>
 
@@ -161,7 +161,16 @@ hide:
     <div class="grid cards" markdown>
 
     -   :fontawesome-brands-golang:{ .lg .middle } __[Ultimate Go Study Guide](https://github.com/hoanhan101/ultimate-go)__ | Go
-    -   :fontawesome-brands-golang:{ .lg .middle } __[
+    -   :fontawesome-brands-golang:{ .lg .middle } __[Go语言学习指南](https://github.com/coderit666/GoGuide)__ | GoGuide
+    -   :fontawesome-brands-golang:{ .lg .middle } __[Go 菜鸟教程](https://www.runoob.com/go/go-tutorial.html)__ | 菜鸟教程
+    -   :fontawesome-brands-golang:{ .lg .middle } __[学习 Go 语言](https://www.topgoer.com/)__ | TopGoer
+    -   :fontawesome-brands-golang:{ .lg .middle } __[Go 指南](https://tour.go-zh.org/list)__ | Go Tour
+    -   :fontawesome-brands-golang:{ .lg .middle } __[Go learning materials](https://github.com/jincheng9/go-tutorial)__ | 资料
+    -   :fontawesome-brands-golang:{ .lg .middle } __[Golang 中文学习文档站](https://golang.halfiisland.com/)__ | Go 学习
+    -   :fontawesome-brands-golang:{ .lg .middle } __[Go 指南](https://go.awesee.cn/)__ | Go 指南
+    -   :fontawesome-brands-golang:{ .lg .middle } __[Go 入门指南](https://go.timpaik.top/)__ | The Way to Go
+    -   :fontawesome-brands-golang:{ .lg .middle } __[Go Advice](https://github.com/cristaloleg/go-advice)__ | Tricks for Go
+    -   :fontawesome-brands-golang:{ .lg .middle } __[Golang 从入门到跑路](https://github.com/jiujuan/go-collection)__ | Steps
 
     </div>
 
@@ -185,7 +194,7 @@ hide:
     <div class="grid cards" markdown>
 
     -   :fontawesome-brands-linux:{ .lg .middle } __[Harden Linux](https://github.com/trimstray/the-practical-linux-hardening-guide)__ | Linux 安全指南
-    -   :fontawesome-brands-linux:{ .lg .middle } __[Secure Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)__ | 服务器安全
+    -   :fontawesome-brands-linux:{ .lg .middle } __[Secure Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)__ | 服务器
     -   :fontawesome-brands-linux:{ .lg .middle } __[
     -   :fontawesome-brands-linux:{ .lg .middle } __[
     -   :fontawesome-brands-linux:{ .lg .middle } __[
@@ -200,7 +209,7 @@ hide:
     <div class="grid cards" markdown>
 
     -   :simple-vim:{ .lg .middle } __[聪明地学习 Vim](https://github.com/wsdjeg/Learn-Vim_zh_cn)__ | Learn Vim
-    -   :simple-vim:{ .lg .middle } __[:fontawesome-solid-graduation-cap: All things Vim!](https://github.com/mhinz/vim-galore)__ | Vim Galore
+    -   :simple-vim:{ .lg .middle } __[All things Vim!](https://github.com/mhinz/vim-galore)__ | Vim Galore
     -   :simple-vim:{ .lg .middle } __[
     -   :simple-vim:{ .lg .middle } __[
     -   :simple-vim:{ .lg .middle } __[
@@ -262,7 +271,7 @@ hide:
     <div class="grid cards" markdown>
 
     -   :material-slot-machine:{ .lg .middle } __[动手学深度学习](https://zh.d2l.ai/)__ | 能运行、可讨论
-    -   :simple-pytorch:{ .lg .middle } __[PyTorch Handbook](https://github.com/zergtant/pytorch-handbook)__ | PyTorch 入门
+    -   :simple-pytorch:{ .lg .middle } __[PyTorch Handbook](https://github.com/zergtant/pytorch-handbook)__ | 入门
 
     </div>
 
@@ -397,6 +406,7 @@ hide:
 -   :simple-baidu:{ .lg .middle } __[百度贴吧](https://tieba.baidu.com/)__ | 互联网精神的最后堡垒
 -   :fontawesome-brands-quora:{ .lg .middle } __[Quora](https://www.quora.com/)__ | 国外版知乎，氛围好些
 -   :simple-reddit:{ .lg .middle } __[Reddit](https://www.reddit.com/)__ | 氛围很好很好的贴吧
+-   :simple-v2ex:{ .lg .middle } __[V2EX](https://www.v2ex.com/)__ | 程序员社区
 
 </div>
 
@@ -485,6 +495,31 @@ hide:
 <div class="grid cards" markdown>
 
 -   :material-video:{ .lg .middle } __[全民影视](https://www.daga.cc/)__ | VIP 视频解析
+-   :material-video:{ .lg .middle } __[茶杯狐](https://cupfox.love/)__ | 电影、剧集、动漫
+-   :material-video:{ .lg .middle } __[LIBVIO](https://www.libvio.fun/)__ | 片源全
+-   :material-video:{ .lg .middle } __[低端影视](https://ddys.love/)__ | 超清片源
+-   :material-magnet:{ .lg .middle } __[海盗湾](https://thepiratebay.org/index.html)__ | 最大的磁力站
+-   :material-magnet:{ .lg .middle } __[磁力熊](https://www.cilixiong.com/)__ | 优质资源，下载快
+-   :material-magnet:{ .lg .middle } __[YTS](https://yts.mx/)__ | 电影很全
+-   :material-magnet:{ .lg .middle } __[1337x](https://1337x.to/)__ | 大型种子站
+
+</div>
+
+### 游戏资源
+
+<div class="grid cards" markdown>
+
+-   :video_game:{ .lg .middle } __[SteamUnlocked](https://steamunlocked.net/)__ | 游戏破解站
+-   :video_game:{ .lg .middle } __[FitGirl Repacks](https://fitgirl-repacks.site/)__ | 游戏打包站
+-   :video_game:{ .lg .middle } __[Dodi Repacks](https://dodi-repacks.site/)__ | 游戏打包站
+-   :video_game:{ .lg .middle } __[IggGames](https://igg-games.com)__ | 游戏下载站
+-   :video_game:{ .lg .middle } __[Торрент Игруха](https://itorrents-igruha.org/)__ | 俄罗斯
+-   :video_game:{ .lg .middle } __[GameCopyWorld](https://www.gamecopyworld.com/)__ | 游戏补丁站
+-   :video_game:{ .lg .middle } __[No Steam](http://www.nosteam.ro/index.php)__ | 游戏下载站
+-   :video_game:{ .lg .middle } __[GameTrex](https://gametrex.com)__ | 游戏下载站
+-   :video_game:{ .lg .middle } __[Gmaes Unlock](https://gamesunlock.com/)__ | 游戏下载站
+-   :video_game:{ .lg .middle } __[3DM](https://www.3dmgame.com/)__ | 3DM 游戏论坛
+-   :video_game:{ .lg .middle } __[520 Switch](https://www.520switch.com/)__ | 游戏下载站
 
 </div>
 
@@ -494,6 +529,15 @@ hide:
 
 <div class="grid cards" markdown>
 
+-   :school:{ .lg .middle } __[正版软件下载](https://software.pku.edu.cn/)__ | 北大软件
+-   :school:{ .lg .middle } __[校园网登录](https://its.pku.edu.cn/)__ | 北大网关
+-   :school:{ .lg .middle } __[教学网](https://course.pku.edu.cn/)__ | 北大教学网
+-   :school:{ .lg .middle } __[树洞](https://treehole.pku.edu.cn/)__ | 北大树洞
+-   :school:{ .lg .middle } __[网盘](https://disk.pku.edu.cn/)__ | 北大网盘
+-   :school:{ .lg .middle } __[党校](https://dangxiao.pku.edu.cn/)__ | 北大党校
+-   :school:{ .lg .middle } __[实践](https://practice.pku.edu.cn/)__ | 北大实践
+-   :school:{ .lg .middle } __[Open Judge](http://openjudge.cn/)__ | 北大 OJ
+
 </div>
 
 ### 民间整理
@@ -501,5 +545,6 @@ hide:
 <div class="grid cards" markdown>
 
 -   :simple-esotericsoftware:{ .lg .middle } __[北大软设课程文档](https://pku-software.github.io/)__ | 软件设计实践
+-   :material-newspaper:{ .lg .middle } __[贵校课程资料民间整理](https://lib-pku.github.io/)__ | Lib PKU
 
 </div>

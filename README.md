@@ -1,6 +1,10 @@
-# LYJ's Notebook
+<h1 align="center"><strong>LYJ's Notebook</strong></h1>
+
+<div align="center">
 
 English | [简体中文](./README.zh-CN.md)
+
+</div>
 
 <div align="center">
 
@@ -71,8 +75,8 @@ Open your browser and enter `http://127.0.0.1:8000/notes-archive/` to preview.
 
 ## Statement
 
-All articles in this notebook adhere to the [Chinese Technical Documentation Writing Standards](https://github.com/ruanyf/document-style-guide)
+All articles in this notebook adhere to the [Chinese Technical Documentation Writing Standards](https://github.com/ruanyf/document-style-guide).
 
 ## Permission
 
-This notebook is available freely under [the CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/). See more details in [LICENSE](./LICENSE)。
+This notebook is available freely under [the CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/). See more details in [LICENSE](./LICENSE).

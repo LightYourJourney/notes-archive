@@ -1,6 +1,10 @@
-# LYJ 的笔记本
+<h1 align="center"><strong>LYJ 的笔记本</strong></h1>
 
-[English](./README.md) | 简体中文
+<div align="center">
+
+English | [简体中文](./README.zh-CN.md)
+
+</div>
 
 <div align="center">
 
@@ -71,7 +75,7 @@ mkdocs serve
 
 ## 声明
 
-本笔记本的所有文章均遵循[中文技术文档的写作规范](https://github.com/ruanyf/document-style-guide)
+本笔记本的所有文章均遵循[中文技术文档的写作规范](https://github.com/ruanyf/document-style-guide)。
 
 ## 许可
 
