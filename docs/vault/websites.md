@@ -75,17 +75,20 @@ hide:
 
     -   :simple-internetcomputer:{ .lg .middle } __[CS自学指南](https://csdiy.wiki/)__ | 一本计算机的自学指南
     -   :fontawesome-solid-computer:{ .lg .middle } __[CS 自学社区](https://www.learncs.site/)__ | CS 学习路线与资源
-    -   :material-laptop:{ .lg .middle } __[清华大学计算机系课程攻略](https://rekcarc-tsc-uht.readthedocs.io/en/latest/)__ | THU CS
+    -   :material-laptop:{ .lg .middle } __[清华大学计算机系课程攻略](https://rekcarc-tsc-uht.readthedocs.io/en/latest/)__ | THU
+
+    -   :map:{ .lg .middle } __[Developer Roadmap](https://roadmap.sh/)__ | Dev 路线图
 
     </div>
 
-    2. :material-language-lua: **编程语言**
+    1. :material-language-lua: **编程语言**
 
     - :material-language-c: **C/C++**
 
     <div class="grid cards" markdown>
 
-    -   :material-language-cpp:{ .lg .middle } __[现代 C++ 并发编程教程](https://mq-b.github.io/ModernCpp-ConcurrentProgramming-Tutorial/)__ | 教案、代码
+    -   :material-language-cpp:{ .lg .middle } __[现代 C++ 并发编程教程](https://mq-b.github.io/ModernCpp-ConcurrentProgramming-Tutorial/)__ | 教案&代码
+    -   :material-language-cpp:{ .lg .middle } __[C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)__ | C++ 核心指南
 
     </div>
 
@@ -94,6 +97,8 @@ hide:
     <div class="grid cards" markdown>
 
     -   :fontawesome-brands-python:{ .lg .middle } __[Python 100 Days](https://github.com/jackfrued/Python-100-Days)__ | 从新手到大师
+    -   :fontawesome-brands-python:{ .lg .middle } __[30 days of Python](https://github.com/Asabeneh/30-Days-Of-Python)__ | 30 天学 Python
+    -   :fontawesome-brands-python:{ .lg .middle } __[Python best practices guidebook](https://docs.python-guide.org/)__ | 最佳实践
 
     </div>
 
@@ -105,7 +110,7 @@ hide:
     -   :material-language-r:{ .lg .middle } __[R 语言数据科学导论](https://ds-r.leovan.tech/)__ | R & DS
     -   :material-language-r:{ .lg .middle } __[Data Science *R*](https://github.com/ujjwalkarn/DataScienceR)__ | R for DS
     -   :material-language-r:{ .lg .middle } __[Advanced R](https://adv-r.hadley.nz/)__ | 2nd Edition
-    -   :material-language-r:{ .lg .middle } __[R for Data Science (2e)](https://r4ds.hadley.nz/)__ | R4DS
+    -   :material-language-r:{ .lg .middle } __[R for Data Science](https://r4ds.hadley.nz/)__ | R4DS
     -   :material-language-r:{ .lg .middle } __[中文 R 语言入门书](https://github.com/zhjx19/introR)__ | introR
     -   :material-language-r:{ .lg .middle } __[R 语言项目](https://github.com/Mounment/R-Project)__ | R Project
     -   :material-language-r:{ .lg .middle } __[R 语言学习资料](https://github.com/harryprince/R-Tutor)__ | R Tutor
@@ -120,12 +125,15 @@ hide:
     <div class="grid cards" markdown>
 
     -   :material-language-javascript:{ .lg .middle } __[JS The Right Way](https://jstherightway.org/zh-cn/)__ | JS 之道
+    -   :material-language-javascript:{ .lg .middle } __[30 days of JS](https://github.com/Asabeneh/30-Days-Of-JavaScript)__ | 30 天学 JS
 
     </div>
 
     - :material-language-typescript: **TypeScript**
 
     <div class="grid cards" markdown>
+
+    :material-language-typescript:{ .lg .middle } __[Guide To Typescript](https://basarat.gitbook.io/typescript)__ | TS 指南
 
     </div>
 
@@ -134,6 +142,7 @@ hide:
     <div class="grid cards" markdown>
 
     -   :material-language-java:{ .lg .middle } __[Java 学习 + 面试指南](https://javaguide.cn/)__ | JavaGuide
+    -   :material-language-java:{ .lg .middle } __[Modern Java](https://github.com/winterbe/java8-tutorial)__ | Java 8 Guide
 
     </div>
 
@@ -143,12 +152,16 @@ hide:
 
     -   :fontawesome-brands-rust:{ .lg .middle } __[Rust Course](https://course.rs/about-book.html)__ | Rust 语言圣经
     -   :fontawesome-brands-rust:{ .lg .middle } __[Rust 程序设计语言](https://kaisery.github.io/trpl-zh-cn/)__ | 简体中文版
+    -   :fontawesome-brands-rust:{ .lg .middle } __[给初学者的Rust中文教程](https://yar999.gitbook.io/rustprimer)__ | Rust Primer
 
     </div>
 
     - :material-language-go: **Go**
 
     <div class="grid cards" markdown>
+
+    -   :fontawesome-brands-golang:{ .lg .middle } __[Ultimate Go Study Guide](https://github.com/hoanhan101/ultimate-go)__ | Go
+    -   :fontawesome-brands-golang:{ .lg .middle } __[
 
     </div>
 
@@ -172,7 +185,7 @@ hide:
     <div class="grid cards" markdown>
 
     -   :fontawesome-brands-linux:{ .lg .middle } __[Harden Linux](https://github.com/trimstray/the-practical-linux-hardening-guide)__ | Linux 安全指南
-    -   :fontawesome-brands-linux:{ .lg .middle } __[
+    -   :fontawesome-brands-linux:{ .lg .middle } __[Secure Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)__ | 服务器安全
     -   :fontawesome-brands-linux:{ .lg .middle } __[
     -   :fontawesome-brands-linux:{ .lg .middle } __[
     -   :fontawesome-brands-linux:{ .lg .middle } __[
@@ -180,7 +193,69 @@ hide:
 
     </div>
 
-    1. :material-code-tags-check: **其他**
+    1. :material-microsoft-visual-studio-code: IDE 使用
+
+    - :simple-vim: Vim
+
+    <div class="grid cards" markdown>
+
+    -   :simple-vim:{ .lg .middle } __[聪明地学习 Vim](https://github.com/wsdjeg/Learn-Vim_zh_cn)__ | Learn Vim
+    -   :simple-vim:{ .lg .middle } __[:fontawesome-solid-graduation-cap: All things Vim!](https://github.com/mhinz/vim-galore)__ | Vim Galore
+    -   :simple-vim:{ .lg .middle } __[
+    -   :simple-vim:{ .lg .middle } __[
+    -   :simple-vim:{ .lg .middle } __[
+    -   :simple-vim:{ .lg .middle } __[
+
+    </div>
+
+    - :simple-gnuemacs: Emacs
+
+    <div class="grid cards" markdown>
+
+    -   :simple-gnuemacs:{ .lg .middle } __[
+    -   :simple-gnuemacs:{ .lg .middle } __[
+    -   :simple-gnuemacs:{ .lg .middle } __[
+    -   :simple-gnuemacs:{ .lg .middle } __[
+    -   :simple-gnuemacs:{ .lg .middle } __[
+    -   :simple-gnuemacs:{ .lg .middle } __[
+
+    </div>
+
+    - :material-microsoft-visual-studio-code: VSCode
+
+    <div class="grid cards" markdown>
+
+    -   :material-microsoft-visual-studio-code:{ .lg .middle } __[
+    -   :material-microsoft-visual-studio-code:{ .lg .middle } __[
+    -   :material-microsoft-visual-studio-code:{ .lg .middle } __[
+    -   :material-microsoft-visual-studio-code:{ .lg .middle } __[
+    -   :material-microsoft-visual-studio-code:{ .lg .middle } __[
+    -   :material-microsoft-visual-studio-code:{ .lg .middle } __[
+
+    </div>
+
+    - :material-jetbrains: JetBrains
+
+    <div class="grid cards" markdown>
+
+    -   :simple-intellijidea:{ .lg .middle } __[Learn IDEA](https://www.jetbrains.com/help/idea/getting-started.html)__ | 官方
+    -   :simple-intellijidea:{ .lg .middle } __[IDEA 高效使用指南](https://idea.javaguide.cn/)__ | 非官方
+    -   :simple-intellijidea:{ .lg .middle } __[最简单的 IDEA 教程](https://guobinhit.github.io/intellij-idea-tutorial/)__ | 非官方
+    -   :simple-intellijidea:{ .lg .middle } __[IDEA 简中专题教程](https://github.com/judasn/IntelliJ-IDEA-Tutorial)__ | 非官方
+    -   :simple-pycharm:{ .lg .middle } __[Learn PyCharm](https://www.jetbrains.com/zh-cn/pycharm/learn/)__ | 官方
+    -   :simple-pycharm:{ .lg .middle } __[PyCharm 中文指南](https://pycharm.iswbm.com/)__ | 非官方
+    -   :simple-pycharm:{ .lg .middle } __[PyCharm 中文网](https://pycharm.net.cn/)__ | 非官方
+    -   :simple-webstorm:{ .lg .middle } __[
+    -   :simple-clion:{ .lg .middle } __[
+    -   :simple-goland:{ .lg .middle } __[
+    -   :simple-rider:{ .lg .middle } __[
+    -   :simple-datagrip:{ .lg .middle } __[
+    -   :simple-phpstorm:{ .lg .middle } __[
+    -   :simple-rubymine:{ .lg .middle } __[
+
+    </div>
+
+    1. :material-sort-variant-off: 暂未分类
 
     - :simple-tensorflow: 深度学习
 
@@ -196,6 +271,15 @@ hide:
 <div class="grid cards" markdown>
 
 -   :material-math-integral:{ .lg .middle } __[统计学自学指南](https://xuankaiwang.github.io/)__ | 统计学的自学指南
+
+</div>
+
+3. :flag_gb: **英语**
+
+<div class="grid cards" markdown>
+
+-   :fontawesome-solid-language:{ .lg .middle } __[英语学习指南 v1.2](https://a-programmers-guide-to-english.harryyu.me/)__ | 专为程序员编写
+-   :fontawesome-solid-language:{ .lg .middle } __[
 
 </div>
 
@@ -263,6 +347,9 @@ hide:
 -   :notebook:{ .lg .middle } __[未央书院学习资料共享计划](https://weyoung-learn.github.io/)__ | 2.0
 -   :fontawesome-solid-house-crack:{ .lg .middle } __[地震“学”科研入门教程](https://seismo-learn.org/seismology101/#)__ | seismo
 -   :material-share:{ .lg .middle } __[lcomplete 的技术分享](https://tech.codelc.com/)__ | 技术&效率
+-   :octicons-cross-reference-24:{ .lg .middle } __[快速参考备忘清单](https://wangchujiang.com/reference/)__ | 速查表
+-   :material-vector-difference-ba:{ .lg .middle } __[Algo Wiki](https://github.com/vicky002/AlgoWiki)__ | 杂烩
+-   
 
 </div>
 
@@ -270,7 +357,12 @@ hide:
 
 <div class="grid cards" markdown>
 
--   :material-format-line-style:{ .lg .middle } __[中文技术文档的写作规范](https://github.com/ruanyf/document-style-guide)__ | 阮一峰
+-   :material-ideogram-cjk:{ .lg .middle } __[中文技术文档的写作规范](https://github.com/ruanyf/document-style-guide)__ | 阮一峰
+-   :material-ideogram-cjk-variant:{ .lg .middle } __[中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)__ | Copywriting
+-   :material-language-go:{ .lg .middle } __[The Uber Go Style Guide](https://github.com/xxjwxc/uber_go_guide_cn)__ | 中文版
+-   :material-language-ruby:{ .lg .middle } __[Ruby coding style guide](https://rubystyle.guide/)__ | 社区驱动
+-   :material-angular:{ .lg .middle } __[Angular Style Guide](https://github.com/johnpapa/angular-styleguide)__ | John Papa
+-   :material-google:{ .lg .middle } __[Google Style Guides](https://google.github.io/styleguide/)__ | Google
 
 </div>
 

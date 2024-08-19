@@ -62,7 +62,7 @@ mkdocs serve
 
 5. 在浏览器中预览
 
-打开浏览器，输入 `http://127.0.0.1:8000/notes-archive/` 即可预览。
+打开浏览器，输入 [`http://127.0.0.1:8000/notes-archive/`](http://127.0.0.1:8000/notes-archive/) 即可预览。
 
 ### :simple-statuspage: 笔记动态
 
