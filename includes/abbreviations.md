@@ -38,3 +38,67 @@
 *[L10n]: localization
 *[g11n]: globalization
 *[GILT]:globalization, internationalization, localization and translation
+*[RAM]: Random Access Memory
+*[ROM]: Read-Only Memory
+*[EEPROM]: Electrically Erasable Programmable Read-Only Memory
+*[ASIC]: Application-Specific Integrated Circuit
+*[FPGA]: Field-Programmable Gate Array
+*[CPU]: Central Processing Unit
+*[GPU]: Graphics Processing Unit
+*[ALU]: Arithmetic Logic Unit
+*[DMA]: Direct Memory Access
+*[BIOS]: Basic Input/Output System
+*[EFI]: Extensible Firmware Interface
+*[IoT]: Internet of Things
+*[RFID]: Radio-Frequency Identification
+*[BLE]: Bluetooth Low Energy
+*[SSL]: Secure Sockets Layer
+*[TLS]: Transport Layer Security
+*[SSH]: Secure Shell
+*[LAN]: Local Area Network
+*[WAN]: Wide Area Network
+*[VPN]: Virtual Private Network
+*[MAC]: Media Access Control
+*[TCP]: Transmission Control Protocol
+*[UDP]: User Datagram Protocol
+*[ICMP]: Internet Control Message Protocol
+*[DNS]: Domain Name System
+*[DHCP]: Dynamic Host Configuration Protocol
+*[HTTP]: HyperText Transfer Protocol
+*[HTTPS]: HyperText Transfer Protocol Secure
+*[SMTP]: Simple Mail Transfer Protocol
+*[IMAP]: Internet Message Access Protocol
+*[POP3]: Post Office Protocol version 3
+*[FTP]: File Transfer Protocol
+*[SFTP]: Secure File Transfer Protocol
+*[IP]: Internet Protocol
+*[IPv4]: Internet Protocol version 4
+*[IPv6]: Internet Protocol version 6
+*[NAT]: Network Address Translation
+*[P2P]: Peer-to-Peer
+*[DOS]: Disk Operating System
+*[RAID]: Redundant Array of Independent Disks
+*[HDD]: Hard Disk Drive
+*[SSD]: Solid-State Drive
+*[BGP]: Border Gateway Protocol
+*[OSPF]: Open Shortest Path First
+*[WEP]: Wired Equivalent Privacy
+*[WPA]: Wi-Fi Protected Access
+*[RDP]: Remote Desktop Protocol
+*[VNC]: Virtual Network Computing
+*[ISO]: International Organization for Standardization
+*[ANSI]: American National Standards Institute
+*[IEEE]: Institute of Electrical and Electronics Engineers
+*[ITU]: International Telecommunication Union
+*[CNC]: Computer Numerical Control
+*[PLC]: Programmable Logic Controller
+*[DSP]: Digital Signal Processor
+*[ADC]: Analog-to-Digital Converter
+*[DAC]: Digital-to-Analog Converter
+*[PWM]: Pulse-Width Modulation
+*[UART]: Universal Asynchronous Receiver-Transmitter
+*[I2C]: Inter-Integrated Circuit
+*[SPI]: Serial Peripheral Interface
+*[CAN]: Controller Area Network
+*[UART]: Universal Asynchronous Receiver/Transmitter
+*[PSU]: Power Supply Unit
