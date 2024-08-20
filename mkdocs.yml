@@ -965,8 +965,10 @@ nav:
           - 寻求帮助: pc-guide/pc-squad/help.md
           - 电脑小队常见问题一: pc-guide/pc-squad/question1.md
           - 电脑小队常见问题二: pc-guide/pc-squad/question2.md
-      - 🎖️ LCPU Missing Semester:
-          - pc-guide/lcpu-ms/index.md
+      - 🎖️ LCPU Getting Started:
+          - pc-guide/lcpu-gs/index.md
+          - 知识的获取 & 提问的艺术: pc-guide/lcpu-gs/info-search-ask-wisely.md
+          - 时间线: pc-guide/lcpu-gs/timeline.md
   - 🟰 Math:
       - math/index.md
       - 📈 高等数学:

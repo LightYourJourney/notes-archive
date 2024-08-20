@@ -62,6 +62,10 @@ hide:
 -   :material-bus-articulated-end:{ .lg .middle } __[NKUCS.ICU](https://nkucs.icu/#/)__ | 南开计算机
 -   :material-bus-articulated-front:{ .lg .middle } __[NKUSE.ICU](https://nkuse.icu/#/)__ | 南开软院
 -   :simple-leanpub:{ .lg .middle } __[华东理工大学飞跃手册](https://ecust-leap.github.io/)__ | ECUST
+-   :simple-genius:{ .lg .middle } __[图灵班学习指南](https://zju-turing.github.io/TuringCourses/)__ | ZJU
+-   :fontawesome-solid-arrows-down-to-people:{ .lg .middle } __[学长组资料汇总](https://turing2024.tonycrane.cc/)__ | Turing 2024
+-   :fontawesome-solid-arrows-down-to-people:{ .lg .middle } __[学长组资料汇总](https://turing2023.tonycrane.cc/)__ | Turing 2023
+-   :fontawesome-solid-school:{ .lg .middle } __[科协技能引导文档](https://docs.net9.org/)__ | THU CS
 
 </div>
 
@@ -234,12 +238,15 @@ hide:
 
     <div class="grid cards" markdown>
 
-    -   :material-microsoft-visual-studio-code:{ .lg .middle } __[
-    -   :material-microsoft-visual-studio-code:{ .lg .middle } __[
-    -   :material-microsoft-visual-studio-code:{ .lg .middle } __[
-    -   :material-microsoft-visual-studio-code:{ .lg .middle } __[
-    -   :material-microsoft-visual-studio-code:{ .lg .middle } __[
-    -   :material-microsoft-visual-studio-code:{ .lg .middle } __[
+    -   :material-microsoft-visual-studio-code:{ .lg .middle } __[VSCode Official Docs](https://code.visualstudio.com/docs)__ | 官方文档
+    -   :material-microsoft-visual-studio-code:{ .lg .middle } __[VS Code入门教程](https://vscode.cool/)__ | 非官方
+    -   :material-microsoft-visual-studio-code:{ .lg .middle } __[VS Code 教程](https://m.w3cschool.cn/vscode/)__ | W3C
+    -   :material-microsoft-visual-studio-code:{ .lg .middle } __[最全 VS Code配置使用教程](https://zhuanlan.zhihu.com/p/113222681)__ | 知乎
+    -   :material-microsoft-visual-studio-code:{ .lg .middle } __[VS Code 入门指南](https://sspai.com/post/60116)__ | 少数派
+    -   :material-microsoft-visual-studio-code:{ .lg .middle } __[VS Code 基础配置](https://www.whbbit.cn/wiki/vscode/index.html)__ | whbbit
+    -   :material-microsoft-visual-studio-code:{ .lg .middle } __[Awesome VS Code](https://viatsko.github.io/awesome-vscode/)__ | :sunglasses:
+    -   :material-microsoft-visual-studio-code:{ .lg .middle } __[VS Code 学习笔记](https://skyao.io/learning-vscode/)__ | Skyao
+    -   :material-microsoft-visual-studio-code:{ .lg .middle } __[VS Code 使用技巧](https://www.thisfaner.com/p/vs-code-tips/)__ | ThisFaner
 
     </div>
 
@@ -288,7 +295,8 @@ hide:
 <div class="grid cards" markdown>
 
 -   :fontawesome-solid-language:{ .lg .middle } __[英语学习指南 v1.2](https://a-programmers-guide-to-english.harryyu.me/)__ | 专为程序员编写
--   :fontawesome-solid-language:{ .lg .middle } __[
+-   :fontawesome-solid-language:{ .lg .middle } __[离谱的英语学习指南](https://byoungd.github.io/English-level-up-tips/#/)__ | English
+-   :fontawesome-solid-language:{ .lg .middle } __[外刊下载](https://github.com/hehonghui/awesome-english-ebooks)__ | Magazines
 
 </div>
 
@@ -358,6 +366,9 @@ hide:
 -   :material-share:{ .lg .middle } __[lcomplete 的技术分享](https://tech.codelc.com/)__ | 技术&效率
 -   :octicons-cross-reference-24:{ .lg .middle } __[快速参考备忘清单](https://wangchujiang.com/reference/)__ | 速查表
 -   :material-vector-difference-ba:{ .lg .middle } __[Algo Wiki](https://github.com/vicky002/AlgoWiki)__ | 杂烩
+-   :simple-wikiquote:{ .lg .middle } __[CTF Wiki](https://ctf-wiki.org/)__ | 夺旗赛
+-   :material-compass-outline:{ .lg .middle } __[HPC Wik](https://hpcwiki.io/)__ | 高性能计算
+-   :material-atom:{ .lg .middle } __[THU 电子工程系科协](https://docs.eesast.com/)__ | EESAST
 -   
 
 </div>
@@ -420,6 +431,7 @@ hide:
 -   :fontawesome-brands-blogger-b:{ .lg .middle } __[酷壳](https://coolshell.cn/)__ | 陈皓的博客
 -   :fontawesome-solid-rss:{ .lg .middle } __[DIYGOD](https://diygod.cc/)__ | 写到世界充满爱
 -   :octicons-rss-24:{ .lg .middle } __[Luolei](https://luolei.org/)__ | 罗磊的独立博客
+-   :nerd:{ .lg .middle } __[鹤翔万里的笔记本](https://note.tonycrane.cc/)__ | TonyCrane
 
 </div>
 
