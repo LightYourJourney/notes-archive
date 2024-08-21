@@ -5,7 +5,7 @@ hide:
 
 # :material-devices: 我的装备
 
-## :octicons-device-desktop-16: 电脑
+## :octicons-device-desktop-16: 电脑 {#computer}
 
 <div class="grid cards" markdown>
 
@@ -152,7 +152,7 @@ hide:
     - [x] 目前主要用途
 </div>
 
-## :material-monitor-cellphone: 外设
+## :material-monitor-cellphone: 外设 {#peripherals}
 
 <div class="grid cards" markdown>
 
@@ -295,7 +295,7 @@ hide:
     - [x] 
 </div>
 
-## :octicons-device-mobile-16: 移动设备
+## :octicons-device-mobile-16: 移动设备 {#mobile}
 
 <div class="grid cards" markdown>
 
@@ -361,7 +361,7 @@ hide:
 </div>
 
 
-## :simple-tripadvisor: 出行
+## :simple-tripadvisor: 出行 {#travel}
 
 <div class="grid cards" markdown>
 

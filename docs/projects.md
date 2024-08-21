@@ -3,9 +3,9 @@ hide:
   - feedback
 ---
 
-# :simple-codeproject: 我的项目
+# :simple-codeproject: 我的项目 {#projects}
 
-## :simple-frontendmentor: 前端项目
+## :simple-frontendmentor: 前端项目 {#frontend}
 
 目前正在学习前端开发与设计，希望以 SSG 为切入点，逐渐构建，优化出自己的主题。
 
@@ -28,7 +28,7 @@ hide:
     - [x] 2024-08-11 Repo Created: [:simple-github: Shire: Innovative static site generator](https://github.com/LightYourJourney/shire)
     - [ ] To be continued...
 
-## :material-ship-wheel: 初学者造轮子
+## :material-ship-wheel: 初学者造轮子 {#wheel}
 
 初学者自然要从最基础的项目开始做起，这里列出了 GitHub 上一些不错的项目列表与教程。
 

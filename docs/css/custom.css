@@ -27,10 +27,14 @@
 .md-typeset h1,
 .md-typeset h2 {
   font-weight: 600;
+  padding-bottom: 0.2em;
+  border-bottom: 1px solid #d3d3d3;
 }
 
 .md-typeset h3 {
   font-weight: 500;
+  padding-bottom: 0.2em;
+  border-bottom: 1px dashed #d3d3d3;
 }
 
 .md-typeset h1,
@@ -335,4 +339,21 @@ input#mkdocs-content-password {
 /* 多图片并列时图片之间的间隔 */
 .image-container a {
   margin: 0 4.5px; /* 上下保持0，左右各10px的间隔 */
+}
+
+.md-typeset img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.md-typeset .admonition,
+.md-typeset details {
+  font-size: 0.9em;
+}
+
+.md-typeset .md-typeset__table {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }

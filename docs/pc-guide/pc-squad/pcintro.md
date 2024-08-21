@@ -2,24 +2,27 @@
 
 
 
-## 初识硬件
+## 初识硬件 {#hardware-intro}
 
-### CPU，GPU
+### CPU，GPU {#cpu-gpu}
 
-### 内存
+### 内存 {#memory}
 
-### 硬盘
+### 硬盘 {#hard-disk}
 
-### 硬件的分工及其间的连接
+### 硬件的分工及其间的连接 {#hardware-connection}
 
+## 初识软件 {#software-intro}
 
+### 操作系统 {#os}
 
-## 初识软件
+### 驱动程序 {#driver}
 
-### 操作系统
+### 应用程序 {#applications}
 
-### 驱动程序
+### 常用软件 {#common-software}
 
-### 应用程序
+## 参考资料 {#reference}
 
-### 常用软件
+1. 鸟哥的 Linux 私房菜：[https://linux.vbird.org/](https://linux.vbird.org/)
+2. 

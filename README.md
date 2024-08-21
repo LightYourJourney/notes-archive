@@ -79,4 +79,4 @@ All articles in this notebook adhere to the [Chinese Technical Documentation Wri
 
 ## Permission
 
-This notebook is available freely under [the CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/). See more details in [LICENSE](./LICENSE).
+This notebook is available freely under [:fontawesome-brands-creative-commons: the CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/). See more details in [LICENSE](./LICENSE).

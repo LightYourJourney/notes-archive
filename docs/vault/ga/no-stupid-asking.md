@@ -14,7 +14,7 @@
     - [https://git.io/asking-question](https://git.io/asking-question)
     - [https://git.io/stop-stupid](https://git.io/stop-stupid)
 
-## 你真的准备好了吗？
+## 你真的准备好了吗？ {#are-you-ready}
 
 ```mermaid
 graph LR
@@ -61,7 +61,7 @@ graph LR
   A --> D1[群聊的作用:交流,分享,扯淡; 但是一切基于上面所说的,每个人都有情绪的!];
 ```
 
-## 避免 xy-problem
+## 避免 xy-problem {#xy-problem}
 
 参考地址: [http://xyproblem.info/](http://xyproblem.info/)
 
@@ -75,7 +75,7 @@ graph LR
 
 因此， 提问者要避免创造这样的修罗场, 需要学会在问题之初就准确描述自己的根本问题。
 
-## 提问前你必须需要知道的事情
+## 提问前你必须需要知道的事情 {#before-asking}
 
 1. 要知道， `Free` 的正确翻译是 `自由`，而非 **~~`免费`~~**。
 2. 要知道，愿意回答问题的人，都是 **可爱** 的人。
@@ -88,7 +88,7 @@ graph LR
 9. 要知道，`搜索`是一项基本生存技能，学不会用 Google 的话，你可能真的不适合你所从事的行业。
 10. 要知道，`英文`是一项基本生存技能，不认识英文的话，你可能真的不适合你所从事的行业。
 
-## 幼儿园的小朋友都知道要有礼貌
+## 幼儿园的小朋友都知道要有礼貌 {#polite}
 
 问题描述应当如下：
 
@@ -98,7 +98,7 @@ graph LR
 谢谢
 ```
 
-## 学会描述问题
+## 学会描述问题 {#describe-problem}
 
 > 向别人提问的时候，要学会正确的描述问题。
 > 把对方当成你的老板，你在给他做报告。要用最精炼的文字和图片，向对方阐述明白一个事情的来龙去脉。
@@ -118,7 +118,7 @@ graph LR
 
 > 千万别认为只有别人帮助你之后才需要说 `谢谢`。
 
-### 学会什么时候贴图
+### 学会什么时候贴图 {#when-to-use-image}
 
 <figure markdown="span">
 ![what-time-to-use-image.png](../../assets/images/no-stupid-asking/what-time-to-use-image.png)
@@ -126,7 +126,7 @@ graph LR
 
 像这种，IM 自动转义表情，贴出来的问题全是表情。
 
-### 学会什么时候要圈出重点
+### 学会什么时候要圈出重点 {#when-to-mark-keywords}
 
 千万不要认为别人的频率和你是同步的，然后像这样扔出一张图一个表情就了事了。
 
@@ -147,7 +147,7 @@ graph LR
 ![stupid_02-no-target.png](../../assets/images/no-stupid-asking/stupid_questions/stupid_02-no-target.png)
 </figure>
 
-## 什么是弱智一样的提问
+## 什么是弱智一样的提问 {#stupid-asking}
 
 <figure markdown="span">
 ![stupid_questions.png](../../assets/images/no-stupid-asking/stupid_questions/stupid_questions.png)

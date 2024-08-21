@@ -9,7 +9,7 @@ hide:
 
 # :material-web-refresh: 我的网站万花筒
 
-## :material-google-classroom: 在线课程
+## :material-google-classroom: 在线课程 {#online-courses}
 
 <div class="grid cards" markdown>
 
@@ -22,9 +22,9 @@ hide:
 
 </div>
 
-## :octicons-book-16: 实用指南
+## :octicons-book-16: 实用指南 {#useful-guides}
 
-### :material-book-edit: 生存手册
+### :material-book-edit: 生存手册 {#survival-guides}
 
 <div class="grid cards" markdown>
 
@@ -69,7 +69,7 @@ hide:
 
 </div>
 
-### :material-foot-print: 自学路线
+### :material-foot-print: 自学路线 {#self-study-routes}
 
 1. :technologist: **计算机 CS**
 
@@ -300,9 +300,9 @@ hide:
 
 </div>
 
-## :simple-gamedeveloper: 开发利器
+## :simple-gamedeveloper: 开发利器 {#dev-tools}
 
-### :simple-git: 代码托管
+### :simple-git: 代码托管 {#code-hosting}
 
 <div class="grid cards" markdown>
 
@@ -313,7 +313,7 @@ hide:
 
 </div>
 
-### :simple-askfm: 问答平台
+### :simple-askfm: 问答平台 {#qa-platforms}
 
 <div class="grid cards" markdown>
 
@@ -326,7 +326,7 @@ hide:
 
 </div>
 
-### :material-file-document: 文档 Wiki
+### :material-file-document: 文档 Wiki {#doc-wikis}
 
 1. :simple-linux: Linux
 
@@ -373,7 +373,7 @@ hide:
 
 </div>
 
-### :simple-stylelint: 风格指南
+### :simple-stylelint: 风格指南 {#style-guides}
 
 <div class="grid cards" markdown>
 
@@ -386,7 +386,7 @@ hide:
 
 </div>
 
-### :simple-searxng: 博客框架
+### :simple-searxng: 博客框架 {#blog-frameworks}
 
 <div class="grid cards" markdown>
 
@@ -403,13 +403,13 @@ hide:
 
 </div>
 
-## :material-toolbox: 在线工具
+## :material-toolbox: 在线工具 {#online-tools}
 
 <div class="grid cards" markdown>
 
 </div>
 
-## :fontawesome-solid-people-group: 交流社区
+## :fontawesome-solid-people-group: 交流社区 {#communities}
 
 <div class="grid cards" markdown>
 
@@ -421,7 +421,7 @@ hide:
 
 </div>
 
-## :fontawesome-solid-blog: 干货博客
+## :fontawesome-solid-blog: 干货博客 {#tech-blogs}
 
 <div class="grid cards" markdown>
 
@@ -435,7 +435,7 @@ hide:
 
 </div>
 
-## :material-filmstrip: 迷影至上
+## :material-filmstrip: 迷影至上 {#movies}
 
 <div class="grid cards" markdown>
 
@@ -450,7 +450,7 @@ hide:
 
 </div>
 
-## :material-chat: AI 帮手
+## :material-chat: AI 帮手 {#ai-assistants}
 
 <div class="grid cards" markdown>
 
@@ -461,7 +461,7 @@ hide:
 
 </div>
 
-## :simple-googlefonts: 优质字体
+## :simple-googlefonts: 优质字体 {#fonts}
 
 <div class="grid cards" markdown>
 
@@ -476,7 +476,7 @@ hide:
 
 </div>
 
-## :material-run-fast: RUN 润学
+## :material-run-fast: RUN 润学 {#run}
 
 <div class="grid cards" markdown>
 
@@ -489,9 +489,9 @@ hide:
 
 </div>
 
-## :simple-hyperskill: 技能学习
+## :simple-hyperskill: 技能学习 {#skill-learning}
 
-### :material-typewriter: 打字练习
+### :material-typewriter: 打字练习 {#typing}
 
 <div class="grid cards" markdown>
 
@@ -500,9 +500,9 @@ hide:
 
 </div>
 
-## :free: 白嫖资源
+## :free: 白嫖资源 {#free-resources}
 
-### 影视资源
+### 影视资源 {#video}
 
 <div class="grid cards" markdown>
 
@@ -517,7 +517,7 @@ hide:
 
 </div>
 
-### 游戏资源
+### 游戏资源 {#games}
 
 <div class="grid cards" markdown>
 
@@ -535,9 +535,9 @@ hide:
 
 </div>
 
-## :simple-studyverse: 学校导航
+## :simple-studyverse: 学校导航 {#school-nav}
 
-### 学校资源
+### 学校资源 {#school-resources}
 
 <div class="grid cards" markdown>
 
@@ -552,7 +552,7 @@ hide:
 
 </div>
 
-### 民间整理
+### 民间整理 {#community-resources}
 
 <div class="grid cards" markdown>
 

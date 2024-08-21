@@ -19,15 +19,15 @@ Wubba lubba dub dub. Gubba nub nub doo rah kah.
 
 INTJ。
 
-## :material-book-education-outline: 教育经历
+## :material-book-education-outline: 教育经历 {#education}
 
 2020.09 - 2023.06 长沙市长郡中学
 
 2023.08 ~ 北京大学信息科学技术学院
 
-## :simple-devdotto: 技术栈
+## :simple-devdotto: 技术栈 {#tech-stack}
 
-### :simple-linux: 操作系统
+### :simple-linux: 操作系统 {#os}
 
 <div class="image-container">
   <a href="https://archlinux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=arch" alt="Arch Linux"></a>
@@ -58,7 +58,7 @@ INTJ。
 </figure>
 -->
 
-### :simple-rust: 计算机语言
+### :simple-rust: 计算机语言 {#programming-languages}
 
 <div class="image-container">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://skillicons.dev/icons?i=c" alt="C"></a>
@@ -85,7 +85,7 @@ INTJ。
 </figure>
 -->
 
-### :material-microsoft-visual-studio: IDE 与编辑器
+### :material-microsoft-visual-studio: IDE 与编辑器 {#ide}
 
 <div class="image-container">
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code"></a>
@@ -99,7 +99,7 @@ INTJ。
   <a href="https://www.gnu.org/software/emacs/" target="_blank"><img src="https://skillicons.dev/icons?i=emacs" alt="Emacs"></a>
 </div>
 
-### :simple-obsidian: 笔记与写作
+### :simple-obsidian: 笔记与写作 {#note-taking}
 
 <div class="image-container">
   <a href="https://obsidian.md/" target="_blank"><img src="https://skillicons.dev/icons?i=obsidian" alt="Obsidian"></a>
@@ -109,7 +109,7 @@ INTJ。
   <a href="https://www.latex-project.org/" target="_blank"><img src="https://skillicons.dev/icons?i=latex" alt="LaTeX"></a>
 </div>
 
-### :simple-adobe: 影音编辑
+### :simple-adobe: 影音编辑 {#media-editing}
 
 <div class="image-container">
   <a href="https://www.blender.org/" target="_blank"><img src="https://skillicons.dev/icons?i=blender" alt="Blender"></a>
@@ -120,7 +120,7 @@ INTJ。
   <a href="https://www.adobe.com/products/xd.html" target="_blank"><img src="https://skillicons.dev/icons?i=xd" alt="XD"></a>
 </div>
 
-### :material-tools: 其他工具
+### :material-tools: 其他工具 {#other-tools}
 
 <div class="image-container">
   <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"></a>
@@ -135,7 +135,7 @@ INTJ。
   <a href="https://vitejs.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=vite" alt="Vite"></a>
 </div>
 
-## :material-film: 迷影
+## :material-film: 迷影 {#cinephilia}
 
 ??? Tip "Caution!"
 
@@ -153,15 +153,15 @@ INTJ。
 
 女演员 Top 3：*张曼玉*, *Sophie Marceau*, *Natalie Portman*
 
-## :simple-steam: 游戏
+## :simple-steam: 游戏 {#gaming}
 
 最爱 [Minecraft](https://www.minecraft.net/zh-hans)，[Plants vs Zombies](https://www.ea.com/ea-studios/popcap/plants-vs-zombies) 与 [Sid Meier’s Civilization® VI](https://store.steampowered.com/app/289070/Sid_Meiers_Civilization_VI/)。
 
-## :fontawesome-solid-mountain-sun: 运动
+## :fontawesome-solid-mountain-sun: 运动 {#sports}
 
 喜欢登山，游泳，乒乓球。
 
-## :simple-github: GitHub Stats
+## :simple-github: GitHub Stats {#github-stats}
 
 <figure markdown="span">
   ![GitHub Contributions](https://ghchart.rshah.org/LightYourJourney)

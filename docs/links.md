@@ -6,7 +6,7 @@ hide:
   - feedback
 ---
 
-# :material-link-plus: 友链
+# :material-link-plus: 友链 {#flink}
 
 !!! Note
     朋友们的博客，欢迎大佬们互换友链！

@@ -5,7 +5,7 @@ hide:
 
 # :fontawesome-solid-sitemap: 站点示例
 
-篇文章是自己给自己的一份备忘录，用于记录 [[:simple-materialformkdocs: **Material for MkDocs**](https://squidfunk.github.io/mkdocs-material/) 主题的使用方法及预览效果，也可以为新手提供一些参考。
+篇文章是自己给自己的一份备忘录，用于记录 [:simple-materialformkdocs: **Material for MkDocs**](https://squidfunk.github.io/mkdocs-material/) 主题的使用方法及预览效果，也可以为新手提供一些参考。
 
 ## :material-eye-settings: 页面设置
 
@@ -1092,7 +1092,7 @@ tags on separate lines and adding new lines between the tags and the content.
 
 ## :material-picture-in-picture-bottom-right-outline: 图片
 
-虽然图像在 Markdown 中很重要，并且是核心语法的一部分，但在使用上可能有些困难。`[:simple-materialformkdocs: **Material for MkDocs**](https://squidfunk.github.io/mkdocs-material/)` 使处理图像更加舒适，为图像对齐和图像标题提供样式。
+虽然图像在 Markdown 中很重要，并且是核心语法的一部分，但在使用上可能有些困难。[:simple-materialformkdocs: **Material for MkDocs**](https://squidfunk.github.io/mkdocs-material/) 使处理图像更加舒适，为图像对齐和图像标题提供样式。
 
 ### :material-picture-in-picture-bottom-right: 图像对齐
 

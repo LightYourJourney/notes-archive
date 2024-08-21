@@ -3,9 +3,9 @@ hide:
   - feedback
 ---
 
-# :simple-todoist: 待办事项
+# :simple-todoist: 待办事项 {#todo}
 
-## :material-note-text: 站点文章
+## :material-note-text: 站点文章 {#article}
 
 !!! list "List"
 
@@ -33,7 +33,7 @@ hide:
 		- [ ] [A guide for styling your node.js / JavaScript code.](https://github.com/felixge/node-style-guide)
 	- [ ] 我的中文技术文档写作规范
 
-## :simple-googleclassroom: 自学课程
+## :simple-googleclassroom: 自学课程 {#course}
 
 ??? list "List"
 
@@ -65,7 +65,7 @@ hide:
 		- [ ] Lecture 3: Determinants
 		- [ ] ······
 
-## :material-web-check: 关于该站
+## :material-web-check: 关于该站 {#about-site}
 
 !!! list "List"
 

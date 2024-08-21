@@ -79,4 +79,4 @@ mkdocs serve
 
 ## 许可
 
-本笔记本以 [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 协议发布。详情请见 [LICENSE](./LICENSE)。
+本笔记本以 [:fontawesome-brands-creative-commons: Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 协议发布。详情请见 [LICENSE](./LICENSE)。
