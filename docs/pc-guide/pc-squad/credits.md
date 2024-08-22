@@ -1,5 +1,7 @@
 # :material-sword: 功劳簿
 
+!!! warning ":construction: 文档施工中"
+
 ## 主要贡献者 {#team}
 
 项目主策划：

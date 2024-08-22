@@ -1,6 +1,6 @@
 # 硬件进阶
 
-
+!!! warning ":construction: 文档施工中"
 
 ## PC
 

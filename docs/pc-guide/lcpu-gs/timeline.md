@@ -1,5 +1,7 @@
 # LCPU Getting Started 时间线
 
+!!! warning ":construction: 文档施工中"
+
 ## 内容准备
 
 - 确定大纲及大体内容 （入门 done）

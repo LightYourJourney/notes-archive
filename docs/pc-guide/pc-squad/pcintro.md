@@ -1,6 +1,6 @@
 # 电脑知识入门（原理和构造）
 
-
+!!! warning ":construction: 文档施工中"
 
 ## 初识硬件 {#hardware-intro}
 
