@@ -2,7 +2,7 @@
 
 !!! warning ":construction: 文档施工中"
 
-## 主要贡献者 {#team}
+## :fontawesome-solid-people-group: 主要贡献者 {#team}
 
 项目主策划：
 
@@ -10,6 +10,6 @@
 
 编排与校对：
 
-## 贡献者 {#contributors}
+## :material-account-group: 贡献者 {#contributors}
 
 [![](https://contrib.rocks/image?repo=LightYourJourney/pc-squad-docs)](https://github.com/LightYourJourney/pc-squad-docs/graphs/contributors)

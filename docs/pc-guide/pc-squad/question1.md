@@ -1,16 +1,16 @@
-# 电脑小队常见问题一
+# :material-lock-question: 电脑小队常见问题一
 
 !!! warning ":construction: 文档施工中"
 
-## 校园网服务
+## :material-web: 校园网服务 {#campus-network}
 
-### 校园网概况
+### :material-network-pos: 校园网概况 {#campus-network-overview}
 
 北京大学的计算、信息管理和网络由计算中心统一负责，计算中心的网址是 its.pku.edu.cn（北京大学网络服务）。其上有许多有关上网的教程，建议阅读常见上网问题都可以查询到，本节绝大部分内容参考了其中的内容。
 
 疑难杂症打电话、发邮件咨询或线下处理（[计算中心联系方式](https://its.pku.edu.cn/contact_us.z.jsp)），办公地点为理科一号楼南边门洞右手一侧
 
-### 校内连网
+### :material-network: 校内连网 {#campus-network-connect}
 
 - 无线网络
 
@@ -22,7 +22,7 @@
 
 有线方式宿舍内床下墙上有网口，插上网线连到电脑上即可上网（比无线更快）
 
-### 校外连内网/访问学校资源
+### :material-vpn: 校外连内网/访问学校资源 {#off-campus-connect}
 
 校外外校和研究所：从 eduroam 接入教育网
 
@@ -50,7 +50,7 @@ CARSI（CERNET Authentication and Resource Sharing Infrastructure / 中国教育
 参考计算中心教程（eduroam 全球无线免费上网）
 连上后可以当作免费 WiFi 使用
 
-### 常用服务
+### :service_dog: 常用服务 {#common-services}
 
 - 北大邮箱
 
@@ -100,9 +100,9 @@ PKU LaTeX（latex.pku.edu.cn）
 
 部署在校内的 Overleaf 版 LaTeX 在线编辑器
 
-## 存储空间整理
+## :material-storage-tank: 存储空间整理 {#storage-management}
 
-### 文件系统
+### :material-folder: 文件系统 {#file-system}
 
 有关硬盘分区的内容，参看装系统一节
 
@@ -114,15 +114,15 @@ Linux 和 macOS 系统下，文件不论存放何处，都组织在一棵抽象�
 
 Linux 下惯用斜杠 /，Windows 下惯用反斜杠 \两种习惯的不同常常引起混淆
 
-### 删除无用文件（慎）
+### :material-delete: 删除无用文件（慎） {#delete-junk-files}
 
 - 垃圾文件
 
 这里说的垃圾文件指设备上没用且删掉能节省存储空间的文件垃圾文件之所以产生，很可能是因为它们本来是有用处的垃圾文件也许可以分为程序产生的和人为的两种程序产生的：采用系统自带的和第三方的垃圾清理工具，或者手动清理人为的：养成良好的文件存储习惯，定期断舍离不必要的文件虽然存储空间逐渐扩大，但程序及其数据也在变得庞杂不需要追求清理每一份垃圾文件，但是有清理设备空间的意识是有帮助的
 
-### 文件整理和归档
+### :simple-org: 文件整理和归档 {#file-organization}
 
-## 参考
+## :octicons-cross-reference-16: 参考 {#reference}
 
 - 北京大学计算中心：[https://its.pku.edu.cn](https://its.pku.edu.cn)
 - 数院学生会公众号新生网络指导（[上篇](https://mp.weixin.qq.com/s/YMC6CkdhCM9stNa9qq3olQ)、[下篇](https://mp.weixin.qq.com/s/R_am1kivTVWwo96ua0ba8g)）

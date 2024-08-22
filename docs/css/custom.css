@@ -40,6 +40,18 @@
   border-bottom: 1px dashed #d3d3d3;
 }
 
+.md-typeset h4 {
+  font-size: 1.17em;
+}
+
+.md-typeset h5 {
+  font-size: 1.08em;
+}
+
+.md-typeset h6 {
+  font-size: 1em;
+}
+
 .md-typeset h1,
 .md-typeset h2,
 .md-typeset h3,
@@ -352,7 +364,7 @@ input#mkdocs-content-password {
 
 .md-typeset .admonition,
 .md-typeset details {
-  font-size: 0.9em;
+  font-size: 0.96em;
 }
 
 .md-typeset .md-typeset__table {

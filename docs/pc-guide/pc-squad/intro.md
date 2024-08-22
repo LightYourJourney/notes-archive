@@ -1,10 +1,10 @@
-# 绪论
+# :material-location-enter: 绪论
 
 !!! warning ":construction: 文档施工中"
 
-## 信科青协与电脑小队
+## :material-group: 信科青协与电脑小队 {#squad}
 
-### 动机、历史和理念
+### :material-history: 动机、历史和理念 {#squad-history}
 
 信科青协于 2008 年 3 月 26 日借奥运会志愿活动的契机成立。
 
@@ -23,7 +23,7 @@
 - 2023 年，电脑小队被评为 2022-2023 学年北京大学青年志愿服务优秀项目之一
 - 有望继续争取 2023-2024 学年的青年志愿服务项目
 
-### 现状、定位和活动形式
+### :material-form-textbox: 现状、定位和活动形式 {#squad-status}
 
 现状：疫后恢复，推陈出新。
 
@@ -33,7 +33,7 @@
 
 活动形式：之前为电脑知识讲座 + 电脑维修，也在信科文化节等活动中出展
 
-### 本学年工作计划
+### :material-floor-plan: 本学年工作计划 {#squad-plan}
 
 - 组织编写资料
 - 进行例会培训
@@ -43,9 +43,9 @@
 - 解决小程序问题
 - ……
 
-## 初识电脑
+## :simple-knowledgebase: 初识电脑 {#intro}
 
-### 电脑结构简介
+### :simple-instructure: 电脑结构简介 {#structure}
 
 - 电脑的分类
 
@@ -104,7 +104,7 @@
 
 以下图片资料来自于 [BV1Wf4y1j7AX](https://www.bilibili.com/video/BV1Wf4y1j7AX/)，该视频也是一个不错的拆机教程。
 
-### 主流操作系统厂商及整机制造商简介
+### :simple-asus: 主流操作系统厂商及整机制造商简介 {#os}
 
 - 主流操作系统
 
@@ -147,9 +147,9 @@
         - NVIDIA：英伟达
         - QUalcomm：高通
 
-### 外设接口简介
+### :material-usb: 外设接口简介 {#interfaces}
 
-### 互动：了解自己的设备（查看外壳标签、型号和参数，观察外设接口，查看系统信息）
+### :material-google-classroom: 互动：了解自己的设备（查看外壳标签、型号和参数，观察外设接口，查看系统信息） {#check}
 
 - A/B/C/D 面
 
@@ -173,19 +173,19 @@ macOS： -> “关于本机” --> "更多信息"
 
 Linux：[参考链接](https://lijian.ac.cn/posts/2018/09/linux-information/)
 
-## 如何寻求帮助
+## :material-help-box: 如何寻求帮助 {#help}
 
 为什么这样早提及？
 
 一些内向的新同学可能感到难以与其他人进行交流由于不擅长寻求帮助，一些同学可能在面对问题时无所适从
 
-### 勇于交流
+### :simple-wechat: 勇于交流 {#communication}
 
 与人交流其实并不像一些同学想象得那样困难同时，它也是大学时的一门“必修课”
 
 青协的大家向来十分热心，愿意为同学们答疑解惑，排忧解难
 
-### 善用搜索
+### :material-search-web: 善用搜索 {#search}
 
 通用搜索引擎国内推荐使用微软的 [必应搜索](https:.cn.bing.com)，垃圾信息较少
 
@@ -193,7 +193,7 @@ Linux：[参考链接](https://lijian.ac.cn/posts/2018/09/linux-information/)
 
 对于专业知识，图书馆（lib.pku.edu.cn）有丰富的纸本藏书和线上资源库如果仅希望作基本了解，也可以先考虑知乎等平台，不过要注意甄别。
 
-### 提问的智慧
+### :simple-askfm: 提问的智慧 {#asking}
 
 这是一个有名的题目，也许可以参考这篇文章的内容
 
