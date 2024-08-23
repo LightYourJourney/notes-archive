@@ -1,10 +1,10 @@
-lib/
-bin/
 site/
 Scripts/
+env/
+venv/
+venv-mkdocs/
 .idea/
 .cache/
+.env/
 .DS_Store
-deploy.sh
-deploy-quick.sh
-pyvenv.cfg
+.sass-cache

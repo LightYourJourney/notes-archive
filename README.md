@@ -47,10 +47,10 @@ cd notes-archive
 2. Create and activate a virtual environment:
 
 ```bash
-python3 -m venv . # Create a virtual environment in the current directory
-source bin/activate # Activate the virtual environment (Linux, macOS)
+python3 -m venv venv # Create a virtual environment
+. venv/bin/activate # Activate the virtual environment (Linux, macOS)
 # or
-.\Scripts\activate # Activate the virtual environment (Windows)
+.\env\Scripts\activate # Activate the virtual environment (Windows)
 ```
 
 3. Install dependencies:

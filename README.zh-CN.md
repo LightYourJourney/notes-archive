@@ -47,10 +47,10 @@ cd notes-archive
 2. 创建并激活虚拟环境：
 
 ```bash
-python3 -m venv . # 在当前目录创建虚拟环境
-source bin/activate # 激活虚拟环境（Linux，macOS）
+python3 -m venv venv # 创建虚拟环境
+. venv/bin/activate # 激活虚拟环境（Linux，macOS）
 # 或者
-.\Scripts\activate # 激活虚拟环境（Windows）
+.\env\Scripts\activate # 激活虚拟环境（Windows）
 ```
 
 3. 安装依赖：

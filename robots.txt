@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /notes-archive/about.html
+Disallow: /notes-archive/art/
+Disallow: /notes-archive/life/
+Disallow: /notes-archive/vault/
+Disallow: /notes-archive/trash/
