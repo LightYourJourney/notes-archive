@@ -261,13 +261,14 @@ hide:
     -   :simple-pycharm:{ .lg .middle } __[Learn PyCharm](https://www.jetbrains.com/zh-cn/pycharm/learn/)__ | 官方
     -   :simple-pycharm:{ .lg .middle } __[PyCharm 中文指南](https://pycharm.iswbm.com/)__ | 非官方
     -   :simple-pycharm:{ .lg .middle } __[PyCharm 中文网](https://pycharm.net.cn/)__ | 非官方
-    -   :simple-webstorm:{ .lg .middle } __[
-    -   :simple-clion:{ .lg .middle } __[
-    -   :simple-goland:{ .lg .middle } __[
-    -   :simple-rider:{ .lg .middle } __[
-    -   :simple-datagrip:{ .lg .middle } __[
-    -   :simple-phpstorm:{ .lg .middle } __[
-    -   :simple-rubymine:{ .lg .middle } __[
+    -   :simple-webstorm:{ .lg .middle } __[Learn WebStorm](https://www.jetbrains.com/zh-cn/webstorm/learn/)__ | 官方
+    -   :simple-clion:{ .lg .middle } __[Learn CLion](https://www.jetbrains.com/zh-cn/clion/learn/)__ | 官方
+    -   :simple-clion:{ .lg .middle } __[CLion 入门教程](https://www.cnblogs.com/ybqjymy/p/17620169.html)__ | 非官方
+    -   :simple-clion:{ .lg .middle } __[CLion 技巧](https://szu17dmy.github.io/site/szu_courses/cpp/clion_hotkeys/)__ | 非官方
+    -   :simple-goland:{ .lg .middle } __[Learn GoLand](https://www.jetbrains.com.cn/go/learn/)__ | 官方
+    -   :simple-rider:{ .lg .middle } __[Rider Documentaion](https://www.jetbrains.com/zh-cn/rider/documentation/)__ | 官方
+    -   :simple-phpstorm:{ .lg .middle } __[PhpStorm Resources](https://www.jetbrains.com/zh-cn/phpstorm/resources/)__ | 官方
+    -   :simple-rubymine:{ .lg .middle } __[Learn RubyMine](https://www.jetbrains.com/zh-cn/ruby/learn/)__ | 官方
 
     </div>
 
@@ -369,7 +370,6 @@ hide:
 -   :simple-wikiquote:{ .lg .middle } __[CTF Wiki](https://ctf-wiki.org/)__ | 夺旗赛
 -   :material-compass-outline:{ .lg .middle } __[HPC Wik](https://hpcwiki.io/)__ | 高性能计算
 -   :material-atom:{ .lg .middle } __[THU 电子工程系科协](https://docs.eesast.com/)__ | EESAST
--   
 
 </div>
 
@@ -432,6 +432,7 @@ hide:
 -   :fontawesome-solid-rss:{ .lg .middle } __[DIYGOD](https://diygod.cc/)__ | 写到世界充满爱
 -   :octicons-rss-24:{ .lg .middle } __[Luolei](https://luolei.org/)__ | 罗磊的独立博客
 -   :nerd:{ .lg .middle } __[鹤翔万里的笔记本](https://note.tonycrane.cc/)__ | TonyCrane
+-   :material-vuejs:{ .lg .middle } __[二丫讲梵](https://wiki.eryajf.net/)__ | 坐而言不如起而行
 
 </div>
 
