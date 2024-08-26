@@ -72,6 +72,82 @@ mkdocs serve
 
 本笔记本以 [:fontawesome-brands-creative-commons: Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 协议发布。本笔记本的所有文章均遵循 [:material-ruler: 中文技术文档的写作规范](https://github.com/ruanyf/document-style-guide)
 
+### :simple-readme: 个性化阅读体验 {#customize}
+
+#### :material-palette: 调色板 {#palette}
+
+你可以在这里更改网站主题的颜色。
+
+##### :material-format-color-fill: 主色（Primary Colors） {#primary-colors}
+
+> 默认是 `Indigo`
+
+点按文字以更改主题的主色。
+
+<button data-md-color-primary="red" style="background-color: #EF5652;">Red</button>
+<button data-md-color-primary="pink" style="background-color: #E92064;">Pink</button>
+<button data-md-color-primary="purple" style="background-color: #AB47BD;">Purple</button>
+<button data-md-color-primary="deep-purple" style="background-color: #7E56C2;">Deep Purple</button>
+<button data-md-color-primary="indigo" style="background-color: #4052B5;">Indigo</button>
+<button data-md-color-primary="blue" style="background-color: #2094F3;">Blue</button>
+<button data-md-color-primary="light-blue" style="background-color: #07A6F2;">Light Blue</button>
+<button data-md-color-primary="cyan" style="background-color: #00BDD6;">Cyan</button>
+<button data-md-color-primary="teal" style="background-color: #019485;">Teal</button>
+<button data-md-color-primary="green" style="background-color: #4CAE50;">Green</button>
+<button data-md-color-primary="light-green" style="background-color: #8CC34C;">Light Green</button>
+<button data-md-color-primary="lime" style="background-color: #CBDC38;">Lime</button>
+<button data-md-color-primary="yellow" style="background-color: #FFEC3E;">Yellow</button>
+<button data-md-color-primary="amber" style="background-color: #FFC107;">Amber</button>
+<button data-md-color-primary="orange" style="background-color: #FFA724;">Orange</button>
+<button data-md-color-primary="deep-orange" style="background-color: #FF6E42;">Deep Orange</button>
+<button data-md-color-primary="brown" style="background-color: #795649;">Brown</button>
+<button data-md-color-primary="grey" style="background-color: #757575;">Grey</button>
+<button data-md-color-primary="blue-grey" style="background-color: #546E78;">Blue Grey</button>
+<button data-md-color-primary="white" style="background-color: #FFFFFF; color: black;">White</button>
+
+<script>
+  var buttons = document.querySelectorAll("button[data-md-color-primary]");
+  Array.prototype.forEach.call(buttons, function(button) {
+    button.addEventListener("click", function() {
+      document.body.dataset.mdColorPrimary = this.dataset.mdColorPrimary;
+      localStorage.setItem("data-md-color-primary", document.body.dataset.mdColorPrimary);
+    })
+  })
+</script>
+
+##### :material-invert-colors: 辅助色（Accent Colors） {#accent-colors}
+
+> 默认是 `Indigo`
+
+点按色块以更改主题的辅助色。
+
+<button data-md-color-accent="red" style="background-color: #EF5652;">Red</button>
+<button data-md-color-accent="pink" style="background-color: #E92064;">Pink</button>
+<button data-md-color-accent="purple" style="background-color: #AB47BD;">Purple</button>
+<button data-md-color-accent="deep-purple" style="background-color: #7E56C2;">Deep Purple</button>
+<button data-md-color-accent="indigo" style="background-color: #4052B5;">Indigo</button>
+<button data-md-color-accent="blue" style="background-color: #2094F3;">Blue</button>
+<button data-md-color-accent="light-blue" style="background-color: #07A6F2;">Light Blue</button>
+<button data-md-color-accent="cyan" style="background-color: #00BDD6;">Cyan</button>
+<button data-md-color-accent="teal" style="background-color: #019485;">Teal</button>
+<button data-md-color-accent="green" style="background-color: #4CAE50;">Green</button>
+<button data-md-color-accent="light-green" style="background-color: #8CC34C;">Light Green</button>
+<button data-md-color-accent="lime" style="background-color: #CBDC38;">Lime</button>
+<button data-md-color-accent="yellow" style="background-color: #FFEC3E;">Yellow</button>
+<button data-md-color-accent="amber" style="background-color: #FFC107;">Amber</button>
+<button data-md-color-accent="orange" style="background-color: #FFA724;">Orange</button>
+<button data-md-color-accent="deep-orange" style="background-color: #FF6E42;">Deep Orange</button>
+
+<script>
+  var buttons = document.querySelectorAll("button[data-md-color-accent]");
+  Array.prototype.forEach.call(buttons, function(button) {
+    button.addEventListener("click", function() {
+      document.body.dataset.mdColorAccent = this.dataset.mdColorAccent;
+      localStorage.setItem("data-md-color-accent", document.body.dataset.mdColorAccent);
+    })
+  })
+</script>
+
 
 
 <script src="//code.tidio.co/xefr3grwhqwg4tvvgzltacejrdxonb5n.js" async></script>
