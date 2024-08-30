@@ -269,6 +269,7 @@ hide:
     -   :simple-rider:{ .lg .middle } __[Rider Documentaion](https://www.jetbrains.com/zh-cn/rider/documentation/)__ | 官方
     -   :simple-phpstorm:{ .lg .middle } __[PhpStorm Resources](https://www.jetbrains.com/zh-cn/phpstorm/resources/)__ | 官方
     -   :simple-rubymine:{ .lg .middle } __[Learn RubyMine](https://www.jetbrains.com/zh-cn/ruby/learn/)__ | 官方
+    -   :material-account-reactivate:{ .lg .middle } __[JetBrains 产品激活](https://www.jihuo.live/)__ | 软件激活
 
     </div>
 

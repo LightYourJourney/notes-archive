@@ -5,19 +5,16 @@ hide:
 
 # :material-account: 关于我
 
-Wubba lubba dub dub. Gubba nub nub doo rah kah.
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=3333&pause=333&center=true&vCenter=true&width=435&height=45&lines=Wubba+lubba+dub+dub.;Gubba+nub+nub+doo+rah+kah.)
 
-你好 👋，我是 Cine Philia，一个热爱折腾的大学牲。
-
-目前就读于北京大学应用物理学专业，大二。
-
-学工科的文科生，学文科的工科生。
-
-影迷一枚，偶尔写写影评。
-
-相比喧闹，更爱独处。
-
-INTJ。
+<div align="center">
+  <p>你好 👋，我是 Cine Philia，一个热爱折腾的大学牲。</p>
+  <p>目前就读于北京大学应用物理学专业，大二。</p>
+  <p>学工科的文科生，学文科的工科生。</p>
+  <p>影迷一枚，偶尔写写影评。</p>
+  <p>相比喧闹，更爱独处。</p>
+  <p>INTJ。</p>
+</div>
 
 ## :material-book-education-outline: 教育经历 {#education}
 
@@ -37,7 +34,7 @@ INTJ。
   <a href="https://www.raspberrypi.com/software/" target="_blank"><img src="https://skillicons.dev/icons?i=raspberrypi" alt="Raspberry Pi OS"></a>
   <a href="https://www.android.com/" target="_blank"><img src="https://skillicons.dev/icons?i=androidstudio" alt="Xiaomi HyperOS powered by Android 14"></a>
   <a href="https://www.apple.com/ipados/" target="_blank"><img src="https://skillicons.dev/icons?i=apple" alt="iPadOS 18"></a>
-  <a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux" target="_blank"><img src="https://skillicons.dev/icons?i=redhat" alt="Red Hat Enterprise Linux"></a>
+  <a href="https://www.debian.org/" target="_blank"><img src="https://skillicons.dev/icons?i=debian" alt="Debian"></a>
   <a href="https://www.freebsd.org/" target="_blank"><img src="https://skillicons.dev/icons?i=bsd" alt="FreeBSD"></a>
 </div>
 
@@ -169,11 +166,19 @@ INTJ。
 </figure>
 
 <figure markdown="span">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LightYourJourney&show_icons=true&theme=one_dark_pro&hide_border=1&border_radius=13)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LightYourJourney&show_icons=true&theme=one_dark_pro&hide_border=1&border_radius=13#only-dark)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LightYourJourney&show_icons=true&theme=default&hide_border=1&border_radius=13#only-light)
   <figcaption>GitHub Stats</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LightYourJourney&layout=compact&hide=html&theme=one_dark_pro&hide_border=1&border_radius=13)
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=LightYourJourney&title=-Reviews&row=2&column=4&theme=onedark#only-dark)
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=LightYourJourney&title=-Reviews&row=2&column=4&theme=flat#only-light)
+  <figcaption>Stat Trophies</figcaption>
+</figure>
+
+<figure markdown="span">
+  ![Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LightYourJourney&layout=compact&hide=html&theme=one_dark_pro&hide_border=1&border_radius=13#only-dark)
+  ![Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LightYourJourney&layout=compact&hide=html&theme=default&hide_border=1&border_radius=13#only-light)
   <figcaption>Lang Stats</figcaption>
 </figure>

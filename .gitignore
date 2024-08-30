@@ -8,3 +8,4 @@ venv-mkdocs/
 .env/
 .DS_Store
 .sass-cache
+encryptcontent.cache

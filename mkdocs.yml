@@ -205,6 +205,8 @@ extra_css: # 额外 CSS
   # - https://unpkg.com/katex@0/dist/katex.min.css
   # 网页圆角化设计
   - css/round-corner.css
+  # 赫蹏：专为中文内容展示设计的排版样式增强
+  - https://unpkg.com/heti@0.9.4/umd/heti.min.css
 
 extra_javascript:
   # - https://gcore.jsdelivr.net/npm/katex@0.15.1/dist/katex.min.js
@@ -258,6 +260,20 @@ plugins:
   #     repository: LightYourJourney/notes-archive
   #     branch: main
   - changelog
+  - encryptcontent:
+      title_prefix: ""
+      summary: "🔒 此内容已加密，需要输入密码才能查看！"
+      placeholder: "在此输入密码"
+      placeholder_user: User
+      password_button_text: "启动！"
+      decryption_failure_message: "密码错误！🙅"
+      encryption_info_message: "若需查看请联系作者 o(〃'▽'〃)o"
+      password_button: True
+      hljs: False
+      arithmatex: False
+      mermaid2: False
+      search_index: "dynamically" # dynamically encrypt mkdocs search index
+      webcrypto: true # use browsers webcrypto support
 
 watch:
   - includes
