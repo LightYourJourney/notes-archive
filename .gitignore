@@ -1,11 +1,25 @@
+# articles with personal information
+# docs/secrets/
+
+# encryptcontent cache
+encryptcontent.cache
+
+# generated site files
 site/
-Scripts/
+
+# virtualenv
 env/
 venv/
 venv-mkdocs/
+
+# IDE files
 .idea/
 .cache/
 .env/
+.vscode/
+
+# macOS
 .DS_Store
-.sass-cache
-encryptcontent.cache
+
+# Windows
+Thumbs.db

@@ -229,13 +229,29 @@ extra_javascript:
   # - https://res.cloudinary.com/veseylab/raw/upload/v1684982764/magicmouse-2.0.0.cdn.min.js
 
 plugins:
-  # - rss:
-  #     match_path: /.*
-  #     date_from_meta:
-  #       as_creation: date
-  #     categories:
-  #       - categories
-  #       - tags
+  - rss:
+      enabled: true
+      rss_feed_enabled: true
+      match_path: /.*
+      date_from_meta:
+        as_creation: date # means from page.meta.date
+        as_update: "git" # means from git log
+        datetime_format: "%Y-%m-%d %H:%M"
+        default_time: "09:30"
+        default_timezone: Asia/Shanghai
+      feeds_filenames:
+        json_created: feed_json_created.json
+        json_updated: feed_json_updated.json
+        rss_created: feed_rss_created.xml
+        rss_updated: feed_rss_updated.xml
+      feed_ttl: 1440
+      image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/128px-Feed-icon.svg.png
+      json_feed_enabled: true
+      use_git: true
+      pretty_print: true # default is false
+      categories:
+        - categories
+        - tags
   - search
   - blog
   - tags
@@ -261,7 +277,7 @@ plugins:
   #     branch: main
   - changelog
   - encryptcontent:
-      title_prefix: ""
+      title_prefix: "🔒 "
       summary: "🔒 此内容已加密，需要输入密码才能查看！"
       placeholder: "在此输入密码"
       placeholder_user: User
@@ -274,6 +290,7 @@ plugins:
       mermaid2: False
       search_index: "dynamically" # dynamically encrypt mkdocs search index
       webcrypto: true # use browsers webcrypto support
+      remember_password: True
 
 watch:
   - includes
@@ -290,6 +307,7 @@ nav:
       - 👤 个人简介: about.md
       - 📁 我的项目: projects.md
       - 🔌 我的装备: equipment.md
+      - 🔖 其他站点: repos.md
   - 💻 PC:
       - pc-guide/index.md
       - 💰 选购电脑:
@@ -1497,14 +1515,24 @@ nav:
               - translate/mkdocs/material-zh-cn/index.md
   - 💾 Vault:
       - vault/index.md
-      - 知乎:
+      - 🧐 知乎:
           - vault/zhihu/index.md
-      - 豆瓣:
+      - 📽️ 豆瓣:
           - vault/douban/index.md
-      - 好文转载:
+      - 📓 好文转载:
           - vault/ga/index.md
           - 提问的智慧: vault/ga/how-to-ask.md
           - 别像弱智一样提问: vault/ga/no-stupid-asking.md
-      - 网站万花筒: vault/websites.md
+      - 🌸 网站万花筒: vault/websites.md
+  - Secrets:
+      - secrets/index.md
+      - 💀 碎片尸意:
+          - 2021: secrets/2021.md
+          - 2022: secrets/2022.md
+          - 2023: secrets/2023.md
+          - 2024: secrets/2024.md
+          - 2025: secrets/2025.md
+      - 猿气螨螨:
+          - writeups/index.md
   - 🗑️ Trash:
       - trash/index.md
