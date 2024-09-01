@@ -1,7 +1,6 @@
 ---
 hide:
     - date
-
     - feedback
 home: true
 # template: home.html
@@ -12,19 +11,28 @@ statistics: true
 
 <h2 align="center">欢迎来到 LYJ 的个人笔记本！</h2>
 
+??? info "站点统计"
+    页面总数：{{pages}}
+    
+    总字数：{{words}}
+    
+    代码块行数：{{codes}}
+    
+    网站运行时间：<span id="web-time"></span>
+
 ### :material-briefcase-check: 简介 {#intro}
 
-这是一个非常粗糙的[**在线公开笔记本**](https://lightyourjourney.github.io/notes-archive/)，主要用来记录和备份平日学到的东西。
+这是一个非常粗糙的[**在线公开笔记本**](https://notes.yanjinli.fun/)，主要用来记录和备份平日学到的东西。
 
 Repo 地址在这里：[:material-github: **Notebook**](https://github.com/LightYourJourney/notes-archive)。
 
 本笔记本使用 [**MkDocs**](https://www.mkdocs.org/) 构建，采用 [:simple-materialformkdocs: **Material for MkDocs**](https://squidfunk.github.io/mkdocs-material/) 主题。中文字体是 [:fontawesome-brands-github-alt: **霞鹜文楷屏幕阅读版**](https://github.com/lxgw/LxgwWenKai-Screen)，英文字体是 [:simple-jetbrains: **JetBrains Mono**](https://www.jetbrains.com/lp/mono/)（没想到 jbmono 的网页版本也支持连字 :smiling_face_with_3_hearts:）。
 
-欢迎 Fork 和 Star，也欢迎各位大佬提出 [Issue](https://github.com/LightYourJourney/notes-archive/issues) 和 [PR](https://github.com/LightYourJourney/notes-archive/pulls)！
+欢迎 Fork 和 Star，也欢迎各位大佬提出 [:octicons-issue-tracked-by-16: Issue](https://github.com/LightYourJourney/notes-archive/issues) 和 [:octicons-feed-pull-request-open-16: PR](https://github.com/LightYourJourney/notes-archive/pulls)！
 
 ### :simple-tryitonline: 在线阅读 {#read-online}
 
-本项目托管在 [:material-github: GitHub Pages](https://pages.github.com/) 上，可以通过 [https://lightyourjourney.github.io/notes-archive/](https://lightyourjourney.github.io/notes-archive/) 在线阅读。
+本项目托管在 [:material-github: GitHub Pages](https://pages.github.com/) 上，可以通过 [https://notes.yanjinli.fun/](https://notes.yanjinli.fun/) 在线阅读。
 
 ### :simple-local: 本地构建部署 {#local-deploy}
 
@@ -150,4 +158,31 @@ mkdocs serve
 
 
 
+<!-- Tidio Chat -->
 <script src="//code.tidio.co/xefr3grwhqwg4tvvgzltacejrdxonb5n.js" async></script>
+
+
+
+<!-- JavaScript 脚本，用于计算站点运行时间 -->
+<script>
+function updateTime() {
+    var date = new Date();
+    var now = date.getTime();
+    var startDate = new Date("2024/07/07 12:45:00");
+    var start = startDate.getTime();
+    var diff = now - start;
+    var y, d, h, m;
+    y = Math.floor(diff / (365 * 24 * 3600 * 1000));
+    diff -= y * 365 * 24 * 3600 * 1000;
+    d = Math.floor(diff / (24 * 3600 * 1000));
+    h = Math.floor(diff / (3600 * 1000) % 24);
+    m = Math.floor(diff / (60 * 1000) % 60);
+    if (y == 0) {
+        document.getElementById("web-time").innerHTML = d + "<span class=\"heti-spacing\"> </span>天<span class=\"heti-spacing\"> </span>" + h + "<span class=\"heti-spacing\"> </span>小时<span class=\"heti-spacing\"> </span>" + m + "<span class=\"heti-spacing\"> </span>分钟";
+    } else {
+        document.getElementById("web-time").innerHTML = y + "<span class=\"heti-spacing\"> </span>年<span class=\"heti-spacing\"> </span>" + d + "<span class=\"heti-spacing\"> </span>天<span class=\"heti-spacing\"> </span>" + h + "<span class=\"heti-spacing\"> </span>小时<span class=\"heti-spacing\"> </span>" + m + "<span class=\"heti-spacing\"> </span>分钟";
+    }
+    setTimeout(updateTime, 1000 * 60);
+}
+updateTime();
+</script>

@@ -21,7 +21,7 @@
 <img src="https://cdn.jsdelivr.net/gh/eryajf/tu@main/img/image_20240420_214408.gif" width="800"  height="3">
 </div><br>
 
-这是一个**非常粗糙**的[在线公开笔记本 📝](https://lightyourjourney.github.io/notes-archive/)，主要用来记录和备份平日学到的东西。
+这是一个**非常粗糙**的[在线公开笔记本 📝](https://notes.yanjinli.fun/)，主要用来记录和备份平日学到的东西。
 
 本笔记本使用 [MkDocs](https://www.mkdocs.org/) 构建，采用 [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) 主题。中文字体是[霞鹜文楷屏幕阅读版](https://github.com/lxgw/LxgwWenKai-Screen)，英文字体是 [JetBrains Mono](https://www.jetbrains.com/lp/mono/)。
 
@@ -29,7 +29,7 @@
 
 ## 在线阅读
 
-本项目托管在 GitHub Pages 上，可以通过 [https://lightyourjourney.github.io/notes-archive/](https://lightyourjourney.github.io/notes-archive/) 在线阅读。
+本项目托管在 GitHub Pages 上，可以通过 [https://notes.yanjinli.fun/](https://notes.yanjinli.fun/) 在线阅读。
 
 ## 本地构建部署
 

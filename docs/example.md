@@ -1326,26 +1326,26 @@ Markdown 语法允许为每个链接指定一个标题，当启用改进的 Tool
 将 tooltips 添加到包含以下行的链接：
 
 ```markdown
-[Hover me](https://lightyourjourney.github.io/notes-archive/ "I'm a tooltip!")
+[Hover me](https://notes.yanjinli.fun/ "I'm a tooltip!")
 ```
 
 预览效果：
 
-[Hover me](https://lightyourjourney.github.io/notes-archive/ "I'm a tooltip!")
+[Hover me](https://notes.yanjinli.fun/ "I'm a tooltip!")
 
 还可以将 tooltips 添加到链接引用中：
 
 ```markdown
 [Hover me][example]
 
-  [example]: https://lightyourjourney.github.io/notes-archive/ "I'm a tooltip!"
+  [example]: https://notes.yanjinli.fun/ "I'm a tooltip!"
 ```
 
 预览效果：
 
 [Hover me][example]
 
-  [example]: https://lightyourjourney.github.io/notes-archive/ "I'm a tooltip!"
+  [example]: https://notes.yanjinli.fun/ "I'm a tooltip!"
 
 对于其他元素，可以使用“属性列表”扩展添加 `title`：
 
@@ -1378,6 +1378,33 @@ The HTML specification is maintained by the W3C.
 `Snippets` 扩展可用于通过在专用文件中移动所有缩写来实现一个简单的词汇表，并使用以下配置自动将此文件附加到所有页面：
 
 详情见官方文档：[https://squidfunk.github.io/mkdocs-material/reference/tooltips/#adding-a-glossary](https://squidfunk.github.io/mkdocs-material/reference/tooltips/#adding-a-glossary)
+
+## :fontawesome-solid-file-pdf: PDF 展示美化
+
+示例源码：
+
+```html linenums="1"
+<div class="card file-block" markdown="1">
+<div class="file-icon"><img src="./assets/images/svg/pdf.svg" style="height: 3em;"></div>
+<div class="file-body">
+<div class="file-title">一份(不太)简短的 LATEX2ε 介绍</div>
+<div class="file-meta">1.5 MB / 127 P / 2023-05-05</div>
+</div>
+<a class="down-button" target="_blank" href="./assets/files/lshort-zh-cn.pdf" markdown="1">:fontawesome-solid-download: 下载</a>
+</div>
+```
+
+预览效果：
+
+<div class="card file-block" markdown="1">
+<div class="file-icon"><img src="./assets/images/svg/pdf.svg" style="height: 3em;"></div>
+<div class="file-body">
+<div class="file-title">一份(不太)简短的 LATEX2ε 介绍</div>
+<div class="file-meta">1.5 MB / 127 P / 2023-05-05</div>
+</div>
+<a class="down-button" target="_blank" href="./assets/files/lshort-zh-cn.pdf" markdown="1">:fontawesome-solid-download: 下载</a>
+</div>
+
 
 ## :octicons-cross-reference-24: 参考文档
 

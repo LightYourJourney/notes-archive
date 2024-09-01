@@ -1,5 +1,5 @@
 site_name: LYJ 的笔记本 # 网站名称
-site_url: https://lightyourjourney.github.io/notes-archive/ # 网站链接
+site_url: https://notes.yanjinli.fun/ # 网站链接
 repo_name: Notes Archive # 仓库名称
 repo_url: https://github.com/LightYourJourney/notes-archive # 仓库链接
 edit_uri: tree/main/docs
@@ -252,16 +252,28 @@ plugins:
       categories:
         - categories
         - tags
-  - search
+  - search:
+      separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
+      pipeline:
+        - stemmer
+        - stopWordFilter
+        - trimmer
+  # - group
+  # - privacy
+  - info
   - blog
   - tags
   - offline
   - git-authors
+  # - social:
+  #     cards_layout: default/variant
+  #     cards_layout_options:
+  #       background_color: transparent
+  #       font_family: JetBrains Mono
   - minify:
       minify_html: true
       minify_js: true
       minify_css: true
-  # - social
   - glightbox:
       width: 80%
   - git-revision-date-localized:
@@ -269,9 +281,6 @@ plugins:
       timezone: Asia/Shanghai
       locale: zh
       enable_creation_date: true
-      exclude:
-        - index.md
-        - writeups/AAA.md
   # - git-committers:
   #     repository: LightYourJourney/notes-archive
   #     branch: main
@@ -282,7 +291,7 @@ plugins:
       placeholder: "在此输入密码"
       placeholder_user: User
       password_button_text: "启动！"
-      decryption_failure_message: "密码错误！🙅"
+      decryption_failure_message: "🙅 密码错误！"
       encryption_info_message: "若需查看请联系作者 o(〃'▽'〃)o"
       password_button: True
       hljs: False
@@ -291,6 +300,21 @@ plugins:
       search_index: "dynamically" # dynamically encrypt mkdocs search index
       webcrypto: true # use browsers webcrypto support
       remember_password: True
+  - statistics
+  - print-site:
+      add_to_navigation: false
+      print_page_title: "Print Site"
+      add_print_site_banner: false
+      # Table of contents
+      add_table_of_contents: true
+      toc_title: "Table of Contents"
+      toc_depth: 6
+      # Content-related
+      add_full_urls: false
+      enumerate_headings: true
+      enumerate_figures: true
+      add_cover_page: true
+      include_css: true
 
 watch:
   - includes
@@ -307,7 +331,7 @@ nav:
       - 👤 个人简介: about.md
       - 📁 我的项目: projects.md
       - 🔌 我的装备: equipment.md
-      - 🔖 其他站点: repos.md
+      - 🔖 站点杂烩: repos.md
   - 💻 PC:
       - pc-guide/index.md
       - 💰 选购电脑:
@@ -1524,15 +1548,16 @@ nav:
           - 提问的智慧: vault/ga/how-to-ask.md
           - 别像弱智一样提问: vault/ga/no-stupid-asking.md
       - 🌸 网站万花筒: vault/websites.md
-  - Secrets:
+  - 🤫 Secrets:
       - secrets/index.md
       - 💀 碎片尸意:
-          - 2021: secrets/2021.md
-          - 2022: secrets/2022.md
-          - 2023: secrets/2023.md
-          - 2024: secrets/2024.md
-          - 2025: secrets/2025.md
-      - 猿气螨螨:
-          - writeups/index.md
+          - secrets/clips/index.md
+          - 2021: secrets/clips/2021.md
+          - 2022: secrets/clips/2022.md
+          - 2023: secrets/clips/2023.md
+          - 2024: secrets/clips/2024.md
+          - 2025: secrets/clips/2025.md
+      - 🙈 猿气螨螨:
+          - secrets/writeups/index.md
   - 🗑️ Trash:
       - trash/index.md

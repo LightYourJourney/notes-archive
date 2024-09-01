@@ -21,7 +21,7 @@ English | [简体中文](./README.zh-CN.md)
 <img src="https://cdn.jsdelivr.net/gh/eryajf/tu@main/img/image_20240420_214408.gif" width="800"  height="3">
 </div><br>
 
-This is a **very rough** [online public notebook 📝](https://lightyourjourney.github.io/notes-archive/), mainly used to record and back up things learned daily.
+This is a **very rough** [online public notebook 📝](https://notes.yanjinli.fun/), mainly used to record and back up things learned daily.
 
 This notebook is built using [MkDocs](https://www.mkdocs.org/) and uses the [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) theme. The Chinese font is [LXGW WenKai Screen](https://github.com/lxgw/LxgwWenKai-Screen), and the English font is [JetBrains Mono](https://www.jetbrains.com/lp/mono/).
 
@@ -29,7 +29,7 @@ Welcome to Fork and Star, and feel free to raise Issues and PRs!
 
 ## Online Reading
 
-This project is hosted on GitHub Pages and can be read online at [https://lightyourjourney.github.io/notes-archive/](https://lightyourjourney.github.io/notes-archive/).
+This project is hosted on GitHub Pages and can be read online at [https://notes.yanjinli.fun/](https://notes.yanjinli.fun/).
 
 ## Local Build and Deployment
 
