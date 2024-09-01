@@ -301,20 +301,20 @@ plugins:
       webcrypto: true # use browsers webcrypto support
       remember_password: True
   - statistics
-  - print-site:
-      add_to_navigation: false
-      print_page_title: "Print Site"
-      add_print_site_banner: false
-      # Table of contents
-      add_table_of_contents: true
-      toc_title: "Table of Contents"
-      toc_depth: 6
-      # Content-related
-      add_full_urls: false
-      enumerate_headings: true
-      enumerate_figures: true
-      add_cover_page: true
-      include_css: true
+  # - print-site:
+  #     add_to_navigation: false
+  #     print_page_title: "Print Site"
+  #     add_print_site_banner: false
+  #     # Table of contents
+  #     add_table_of_contents: true
+  #     toc_title: "Table of Contents"
+  #     toc_depth: 6
+  #     # Content-related
+  #     add_full_urls: false
+  #     enumerate_headings: true
+  #     enumerate_figures: true
+  #     add_cover_page: true
+  #     include_css: true
 
 watch:
   - includes
