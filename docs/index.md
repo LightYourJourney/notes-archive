@@ -28,7 +28,7 @@ Repo 地址在这里：[:material-github: **Notebook**](https://github.com/Light
 
 本笔记本使用 [**MkDocs**](https://www.mkdocs.org/) 构建，采用 [:simple-materialformkdocs: **Material for MkDocs**](https://squidfunk.github.io/mkdocs-material/) 主题。中文字体是 [:fontawesome-brands-github-alt: **霞鹜文楷屏幕阅读版**](https://github.com/lxgw/LxgwWenKai-Screen)，英文字体是 [:simple-jetbrains: **JetBrains Mono**](https://www.jetbrains.com/lp/mono/)（没想到 jbmono 的网页版本也支持连字 :smiling_face_with_3_hearts:）。
 
-欢迎 Fork 和 Star，也欢迎各位大佬提出 [:octicons-issue-tracked-by-16: Issue](https://github.com/LightYourJourney/notes-archive/issues) 和 [:octicons-feed-pull-request-open-16: PR](https://github.com/LightYourJourney/notes-archive/pulls)！
+欢迎 :fontawesome-solid-code-fork: Fork 和 :material-star: Star，也欢迎各位大佬提出 [:octicons-issue-tracked-by-16: Issue](https://github.com/LightYourJourney/notes-archive/issues) 和 [:octicons-feed-pull-request-open-16: PR](https://github.com/LightYourJourney/notes-archive/pulls)！
 
 ### :simple-tryitonline: 在线阅读 {#read-online}
 
