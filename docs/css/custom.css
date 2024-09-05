@@ -368,7 +368,6 @@ input#mkdocs-content-password {
 }
 
 .md-typeset .md-typeset__table {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+  display: table;
+  margin: 0 auto;
 }

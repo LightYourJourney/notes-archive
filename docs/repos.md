@@ -58,6 +58,20 @@ nostatistics: true
     - :material-freebsd:{ .lg .middle } __[FREEBSD](https://freebsd.yanjinli.fun/)__ | FreeBSD 不完全指南
     - :simple-raspberrypi:{ .lg .middle } __[RASPBERRYPI](https://pi.yanjinli.fun/)__ | 树莓派不完全指南
     - :fontawesome-solid-computer:{ .lg .middle } __[COMPUTER](https://pcsquad.yanjinli.fun/)__ | 电脑小队帮助文档
+    - :material-microsoft-visual-studio:{ .lg .middle } __[VS](https://vs.yanjinli.fun/)__ | Visual Studio 不完全指南
+    - :simple-notepadplusplus:{ .lg .middle } __[NPP](https://npp.yanjinli.fun/)__ | Notepad++ 不完全指南
+    - :simple-sublimetext:{ .lg .middle } __[SUBLIME](https://sublime.yanjinli.fun/)__ | Sublime Text 不完全指南
+    - :simple-gnuemacs:{ .lg .middle } __[EMACS](https://emacs.yanjinli.fun/)__ | Emacs 不完全指南
+    - :simple-vim:{ .lg .middle } __[VIM](https://vim.yanjinli.fun/)__ | Vim 不完全指南
+    - :simple-neovim:{ .lg .middle } __[NEOVIM](https://neovim.yanjinli.fun/)__ | Neovim 不完全指南
+    - :material-microsoft-visual-studio-code:{ .lg .middle } __[VSCODE](https://vscode.yanjinli.fun/)__ | VSCode 不完全指南
+    - :simple-intellijidea:{ .lg .middle } __[IDEA](https://idea.yanjinli.fun/)__ | IDEA 不完全指南
+    - :simple-pycharm:{ .lg .middle } __[PYCHARM](https://pycharm.yanjinli.fun/)__ | PyCharm 不完全指南
+    - :simple-github:{ .lg .middle } __[GITHUB](https://github.yanjinli.fun/)__ | GitHub 不完全指南
+    - :fontawesome-brands-chrome:{ .lg .middle } __[CHROME](https://chrome.yanjinli.fun/)__ | Chrome 不完全指南
+    - :material-microsoft-office:{ .lg .middle } __[OFFICE](https://office.yanjinli.fun/)__ | Office 不完全指南
+    - :simple-obsidian:{ .lg .middle } __[OBSIDIAN](https://obsidian.yanjinli.fun/)__ | Obsidian 不完全指南
+    - :simple-notion:{ .lg .middle } __[NOTION](https://notion.yanjinli.fun/)__ | Notion 不完全指南
     
     </div>
 

@@ -284,6 +284,7 @@ plugins:
   # - git-committers:
   #     repository: LightYourJourney/notes-archive
   #     branch: main
+  #     token: !!python/object/apply:os.getenv ["MKDOCS_GIT_COMMITTERS_APIKEY"]
   - changelog
   - encryptcontent:
       title_prefix: "🔒 "
@@ -1280,6 +1281,11 @@ nav:
               - life/reading/hlm/index.md
           - 罪与罚:
               - life/reading/zyf/index.md
+      - ⚽ 运动:
+          - life/sports/index.md
+          - 🏊 游泳: life/sports/swimming.md
+          - 🏃 跑步: life/sports/running.md
+          - 🧗 登山: life/sports/mountain-climbing.md
       - ✈️ 旅行:
           - life/travel/index.md
           - 郑州: life/travel/zhengzhou.md

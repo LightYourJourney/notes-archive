@@ -1,6 +1,7 @@
 ---
 hide:
   - feedback
+nostatistics: true
 ---
 
 # :material-devices: 我的装备

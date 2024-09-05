@@ -1,6 +1,7 @@
 ---
 hide:
   - feedback
+nostatistics: true
 ---
 
 # :simple-codeproject: 我的项目 {#projects}

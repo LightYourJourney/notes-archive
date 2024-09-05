@@ -1,6 +1,7 @@
 ---
 hide:
   - feedback
+nostatistics: true
 ---
 
 # :simple-todoist: 待办事项 {#todo}

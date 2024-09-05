@@ -1,6 +1,7 @@
 ---
 hide:
   - feedback
+nostatistics: true
 ---
 
 # :material-account: 关于我
@@ -148,7 +149,7 @@ hide:
 
 男演员 Top 3：*梁朝伟*, *Robert De Niro*, *Heath Ledger*
 
-女演员 Top 3：*张曼玉*, *Sophie Marceau*, *Natalie Portman*
+女演员 Top 3：*张曼玉*, *Jodie Comer*, *Sophie Marceau*
 
 ## :simple-steam: 游戏 {#gaming}
 
@@ -166,19 +167,19 @@ hide:
 </figure>
 
 <figure markdown="span">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LightYourJourney&show_icons=true&theme=one_dark_pro&hide_border=1&border_radius=13#only-dark)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LightYourJourney&show_icons=true&theme=one_dark_pro&hide_border=1&border_radius=13&bg_color=1D2129#only-dark)
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LightYourJourney&show_icons=true&theme=default&hide_border=1&border_radius=13#only-light)
   <figcaption>GitHub Stats</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=LightYourJourney&title=-Reviews&row=2&column=4&theme=onedark#only-dark)
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=LightYourJourney&title=-Reviews&row=2&column=4&theme=onedark&no-bg=true#only-dark)
   ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=LightYourJourney&title=-Reviews&row=2&column=4&theme=flat#only-light)
   <figcaption>Stat Trophies</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LightYourJourney&layout=compact&hide=html&theme=one_dark_pro&hide_border=1&border_radius=13#only-dark)
+  ![Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LightYourJourney&layout=compact&hide=html&theme=one_dark_pro&hide_border=1&border_radius=13&bg_color=1D2129#only-dark)
   ![Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LightYourJourney&layout=compact&hide=html&theme=default&hide_border=1&border_radius=13#only-light)
   <figcaption>Lang Stats</figcaption>
 </figure>
