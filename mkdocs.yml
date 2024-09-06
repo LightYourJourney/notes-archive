@@ -1026,6 +1026,35 @@ nav:
           - 电脑小队常见问题二: pc-guide/pc-squad/question2.md
       - 🎖️ LCPU Getting Started:
           - pc-guide/lcpu-gs/index.md
+          - 入门 BASIC:
+              - pc-guide/lcpu-gs/basic/index.md
+              - 搜索和知识获取: pc-guide/lcpu-gs/basic/how-to-know.md
+              - 计算机基本知识概览:
+                  - 硬件与软件: pc-guide/lcpu-gs/basic/pc/shw.md
+                  - 操作系统: pc-guide/lcpu-gs/basic/pc/os.md
+                  - 基本体系结构: pc-guide/lcpu-gs/basic/pc/systruct.md
+                  - 网络基础知识: pc-guide/lcpu-gs/basic/pc/net.md
+              - 用好你的电脑:
+                  - 编程环境配置: pc-guide/lcpu-gs/basic/use/config.md
+                  - 软件选择、安装与卸载: pc-guide/lcpu-gs/basic/use/sw.md
+                  - 版本控制系统 Git: pc-guide/lcpu-gs/basic/use/git.md
+                  - 网络资源获取: pc-guide/lcpu-gs/basic/use/resource.md
+                  - 网络安全: pc-guide/lcpu-gs/basic/use/netsec.md
+                  - 编程语言: pc-guide/lcpu-gs/basic/use/pl.md
+                  - 小知识串讲: pc-guide/lcpu-gs/basic/use/chitchat.md
+              - Linux 基础知识:
+                  - 虚拟机和基本操作: pc-guide/lcpu-gs/basic/linux/vm.md
+                  - 环境配置和常用操作: pc-guide/lcpu-gs/basic/linux/env.md
+              - 文本编辑:
+                  - pc-guide/lcpu-gs/basic/text-edit/index.md
+                  - Markdown: pc-guide/lcpu-gs/basic/text-edit/md.md
+                  - LaTeX: pc-guide/lcpu-gs/basic/text-edit/latex.md
+                  - Typst: pc-guide/lcpu-gs/basic/text-edit/typst.md
+                  - Beamer: pc-guide/lcpu-gs/basic/text-edit/beamer.md
+          - 中级 ADVANCED:
+              - pc-guide/lcpu-gs/advanced/index.md
+          - 进阶 EXPERT:
+              - pc-guide/lcpu-gs/expert/index.md
           - 知识的获取 & 提问的艺术: pc-guide/lcpu-gs/info-search-ask-wisely.md
           - 时间线: pc-guide/lcpu-gs/timeline.md
   - 🟰 Math:
