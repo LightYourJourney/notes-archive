@@ -60,7 +60,7 @@ nostatistics: true
     - :fontawesome-solid-computer:{ .lg .middle } __[COMPUTER](https://pcsquad.yanjinli.fun/)__ | 电脑小队帮助文档
     - :material-microsoft-visual-studio:{ .lg .middle } __[VS](https://vs.yanjinli.fun/)__ | Visual Studio 不完全指南
     - :simple-notepadplusplus:{ .lg .middle } __[NPP](https://npp.yanjinli.fun/)__ | Notepad++ 不完全指南
-    - :simple-sublimetext:{ .lg .middle } __[SUBLIME](https://sublime.yanjinli.fun/)__ | Sublime Text 不完全指南
+    - :simple-sublimetext:{ .lg .middle } __[SUBLIME](https://sublime.yanjinli.fun/)__ | SublimeText 不完全指南
     - :simple-gnuemacs:{ .lg .middle } __[EMACS](https://emacs.yanjinli.fun/)__ | Emacs 不完全指南
     - :simple-vim:{ .lg .middle } __[VIM](https://vim.yanjinli.fun/)__ | Vim 不完全指南
     - :simple-neovim:{ .lg .middle } __[NEOVIM](https://neovim.yanjinli.fun/)__ | Neovim 不完全指南

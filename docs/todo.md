@@ -76,6 +76,6 @@ nostatistics: true
     - [x] 字体大小调整
     - [x] 页脚联系方式
     - [x] 添加 icons 和 emojis :smile: :material-account-circle: :octicons-repo-push-16:
-    - [ ] 搭建网盘
+    - [ ] ~~搭建网盘~~
     - [x] 文件链接
     - [x] ~~修改 mkdocs 源码，~~ 加快预览构建速度

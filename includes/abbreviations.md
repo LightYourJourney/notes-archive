@@ -34,6 +34,7 @@
 *[IRC]: Internet Relay Chat
 *[MIME]: Multipurpose Internet Mail Extensions
 *[GNU]: GNU's not Unix
+*[GCC]: GNU Compiler Collection
 *[i18n]: internationalization
 *[L10n]: localization
 *[g11n]: globalization
@@ -102,3 +103,16 @@
 *[CAN]: Controller Area Network
 *[UART]: Universal Asynchronous Receiver/Transmitter
 *[PSU]: Power Supply Unit
+*[MSVC]: Microsoft Visual C/C++
+*[PS]: Photoshop
+*[Wine]: Wine Is Not an Emulator
+*[yay]: Yet Another Yaourt
+*[AUR]: Arch User Repository
+*[Yaourt]: Yet Another User Repository Tool
+*[VCS]: Version Control System
+*[GUI]: Graphical User Interface
+*[TUI]: Text-based User Interface
+*[IDE]: Integrated Development Environment
+*[IE]: Internet Explorer
+*[JVM]: Java Virtual Machine
+*[OS]: Operating System
