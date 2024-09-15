@@ -1,4 +1,7 @@
+*[AI]: Artificial Intelligence
 *[AOSP]: Android Open Source Project
+*[ARM]: Advanced RISC Machine
+*[RISC]: Reduced Instruction Set Computer
 *[API]: Application Programming Interface
 *[BSD]: Berkeley Software Distribution
 *[IE]: Internet Explorer
@@ -116,3 +119,23 @@
 *[IE]: Internet Explorer
 *[JVM]: Java Virtual Machine
 *[OS]: Operating System
+*[PC]: Personal Computer
+*[Mac]: Macintosh
+*[UNIX]: Uniplexed Information and Computing Service
+*[cmd]: Command Prompt
+*[GPIO]: General Purpose Input/Output
+*[SoC]: System on Chip
+*[SPI]: Serial Peripheral Interface
+*[I2C]: Inter-Integrated Circuit
+*[AD]: Analog-Digital
+*[DA]: Digital-Analog
+*[ADC]: Analog-Digital Converter
+*[DAC]: Digital-Analog Converter
+*[PWM]: Pulse Width Modulation
+*[UART]: Universal Asynchronous Receiver-Transmitter
+*[USB]: Universal Serial Bus
+*[HDMI]: High Definition Multimedia Interface
+*[VGA]: Video Graphics Array
+*[DVI]: Digital Visual Interface
+*[DP]: DisplayPort
+*[HDCP]: High-bandwidth Digital Content Protection

@@ -1256,48 +1256,48 @@ nav:
   - 🔬 EE:
       - ee/index.md
       - 🤖 智能硬件应用实验:
-          - ee/pi/index.md:
+          - ee/pi/index.md
           - 💻 智能硬件简介:
-              - 📱 ee/pi/intro/index.md
+              - ee/pi/intro/index.md
               - 🖥️ 硬件平台: ee/pi/intro/hw-platform.md
               - 🌐 操作系统环境: ee/pi/intro/os-env.md
               - 🐍 Python 编程语言简介: ee/pi/intro/py.md
               - 🧠 人工智能简介: ee/pi/intro/ai.md
           - 🎮 简单游戏策略:
-              - 📚 ee/pi/game/index.md
+              - ee/pi/game/index.md
               - 🧠 电脑游戏中的智能: ee/pi/game/game-intelligence.md
               - 🍓 树莓派的硬件扩展: ee/pi/game/hw-ext.md
               - 🐍 Python 语言控制硬件: ee/pi/game/py.md
               - 🤖 动手实验：猜拳游戏: ee/pi/game/prac.md
               - 🤔 思考题: ee/pi/game/think.md
           - 🔍 聚类算法:
-              - 📚 ee/pi/clustering/index.md
+              - ee/pi/clustering/index.md
               - 📚 聚类算法简介: ee/pi/clustering/intro.md
               - 📏 1-Wire 总线与传感器: ee/pi/clustering/sensor.md
               - 📚 用到的Python 库: ee/pi/clustering/lib.md
               - 🤖 动手实验：模式识别: ee/pi/clustering/prac.md
               - 🤔 思考题: ee/pi/clustering/think.md
           - 📷 OpenCV 基础:
-              - 📚 ee/pi/opencv/index.md
+              - ee/pi/opencv/index.md
               - 📷 OpenCV简介: ee/pi/opencv/intro.md
               - 🎨 图片形状检测: ee/pi/opencv/detect.md
               - 🤖 动手实验：图片处理及图形识别: ee/pi/opencv/prac.md
               - 🤔 思考题: ee/pi/opencv/think.md
           - 🛠️ 支持向量机分类器:
-              - 📚 ee/pi/svm/index.md
+              - ee/pi/svm/index.md
               - 🛠️ 支持向量机: ee/pi/svm/intro.md
               - 📺 SPI OLED 显示模块: ee/pi/svm/oled.md
               - 📚 用到的Python库: ee/pi/svm/lib.md
               - 🤖 动手实验：手写数字识别: ee/pi/svm/prac.md
               - 🤔 思考题: ee/pi/svm/think.md
           - 🐾 构建专家系统:
-              - 📚 ee/pi/expert/index.md
+              - ee/pi/expert/index.md
               - 🧠 专家系统: ee/pi/expert/intro.md
               - 🚢 树莓派的舵机控制: ee/pi/expert/control.md
               - 🤖 动手实验：动物识别专家: ee/pi/expert/prac.md
               - 🤔 思考题: ee/pi/expert/think.md
           - 📹 OpenCV 进阶:
-              - 📚 ee/pi/opencv-ad/index.md
+              - ee/pi/opencv-ad/index.md
               - 📈 图片的统计特性: ee/pi/opencv-ad/pic-stats.md
               - 👤 人脸识别算法基本原理: ee/pi/opencv-ad/face.md
               - 🍓 树莓派对摄像头的处理: ee/pi/opencv-ad/cam.md
@@ -1305,7 +1305,7 @@ nav:
               - 🤖 动手实验：视频的处理及人脸识别: ee/pi/opencv-ad/prac.md
               - 🤔 思考题: ee/pi/opencv-ad/think.md
           - 🧠 人工神经网络:
-              - 📚 ee/pi/anns/index.md
+              - ee/pi/anns/index.md
               - 🧠 神经网络: ee/pi/anns/intro.md
               - 📈 从线性回归到MLP: ee/pi/anns/mlp.md
               - 🐍 PyTorch 简介: ee/pi/anns/pytorch.md
@@ -1314,30 +1314,30 @@ nav:
               - 🤖 动手实验：通过手势识别实时控制发光二极管亮度: ee/pi/anns/prac.md
               - 🤔 思考题: ee/pi/anns/think.md
           - 🎙️ 语音识别和处理入门:
-              - 📚 ee/pi/voice/index.md
+              - ee/pi/voice/index.md
               - 🍓 树莓派音频输入输出方法: ee/pi/voice/io.md
               - 🎲 HMM-GMM模型介绍: ee/pi/voice/hmm-gmm.md
               - 🤖 动手实验：语音控制系统: ee/pi/voice/prac.md
               - 🤔 思考题: ee/pi/voice/think.md
           - 📝 自然语言处理入门:
-              - 📚 ee/pi/nlp/index.md
+              - ee/pi/nlp/index.md
               - 📚 词向量的编码与处理方法: ee/pi/nlp/process.md
               - 🐦 Twitter 文本情感分析: ee/pi/nlp/twitter.md
               - 🏫 未名教学二号集群使用说明: ee/pi/nlp/weimin.md
               - 🤖 动手实验：文本的情感分析: ee/pi/nlp/prac.md
           - 🤖 TensorFlow 应用:
-              - 📚 ee/pi/tensorflow/index.md
+              - ee/pi/tensorflow/index.md
               - 🤖 TensorFlow 介绍: ee/pi/tensorflow/intro.md
               - 📊 MNIST 入门: ee/pi/tensorflow/mnist.md
               - 🤖 动手实验：物体识别: ee/pi/tensorflow/prac.md
           - 🧐 大语言模型简介:
-              - 📚 ee/pi/llm/index.md
+              - ee/pi/llm/index.md
               - 🧐 Transformer 模型: ee/pi/llm/transformer.md
               - 🧠 大语言模型: ee/pi/llm/intro.md
               - 📚 python API接口: ee/pi/llm/py-api.md
               - 🤖 动手实验：调用大语言模型: ee/pi/llm/prac.md
           - 🧪 综合实验:
-              - 📚 ee/pi/practice/index.md
+              - ee/pi/practice/index.md
               - 🎯 实验目的: ee/pi/practice/aim.md
               - 📚 实验内容: ee/pi/practice/content.md
   - 🇬🇧 English:
@@ -1637,12 +1637,12 @@ nav:
           - RSS 阅读器: z7z8/rss/reader.md
           - RSS 订阅源: z7z8/rss/feed.md
       - 🆓 不完全白嫖指南:
-          - z7z8/free/pi/index.md
-          - 下载器: z7z8/free/pi/downloader.md
-          - 影视: z7z8/free/pi/film.md
-          - 音乐: z7z8/free/pi/music.md
-          - 书籍: z7z8/free/pi/book.md
-          - 软件: z7z8/free/pi/software.md
+          - z7z8/free/index.md
+          - 下载器: z7z8/free/downloader.md
+          - 影视: z7z8/free/film.md
+          - 音乐: z7z8/free/music.md
+          - 书籍: z7z8/free/book.md
+          - 软件: z7z8/free/software.md
       - 📢 不完全效率指南:
           - z7z8/efficiency/index.md
           - 高效搜索术: z7z8/efficiency/info-search.md
