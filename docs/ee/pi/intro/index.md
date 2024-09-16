@@ -8,9 +8,9 @@ nostatistics: true
 
 <div class="grid cards" markdown>
 
--   :octicons-device-desktop-16:{ .lg .middle } __[硬件平台](./hw-platform.html)__ | 
--   :material-web:{ .lg .middle } __[操作系统环境](./os-env.html)__ | 
--   :simple-python:{ .lg .middle } __[Python 编程语言简介](./py.html)__ | 
--   :material-brain:{ .lg .middle } __[人工智能简介](./ai.html)__ | 
+-   :simple-raspberrypi:{ .lg .middle } __[硬件平台](./hw-platform.html)__ | 树莓派
+-   :fontawesome-brands-linux:{ .lg .middle } __[操作系统环境](./os-env.html)__ | Raspberry Pi OS
+-   :simple-python:{ .lg .middle } __[编程语言简介](./py.html)__ | Python
+-   :material-brain:{ .lg .middle } __[人工智能简介](./ai.html)__ | AI
 
 </div>

@@ -139,3 +139,9 @@
 *[DVI]: Digital Visual Interface
 *[DP]: DisplayPort
 *[HDCP]: High-bandwidth Digital Content Protection
+*[zsh]: Z shell
+*[csh]: C shell
+*[bash]: Bourne Again SHell
+*[CGI]: Common Gateway Interface
+*[WAV]: Waveform Audio File Format
+*[VNC]: Virtual Network Computing
