@@ -5,7 +5,7 @@
 
     <table><tbody><tr><th>课程号</th><td><span>04833530</span></td><th>学分</th><td><span>2</span></td></tr><tr><th>英文名称</th><td colspan="3"><span>Experiment on Intelligent Hardware Applications</span></td></tr><tr><th>先修课程</th><td colspan="9"><span>计算概论</span></td></tr><tr><th>开课院系</th><td colspan="9"><span>信息科学技术学院</span></td></tr><tr><th>授课语言</th><td colspan="9"><span>中文</span></td></tr><tr><th>教材</th><td colspan="9"><span>树莓派开发实战（第 2 版）,[英]Simon Monk, 人民邮电出版社，2017,</span></td></tr></tbody></table>
 
-## :fontawesome-solid-book: 前言
+## :fontawesome-solid-book: 前言 {#preface}
 
 “智能硬件应用实验”是一门面向低年级本科生的基础课程，目的是让同学们可以在大学学习的早期阶段了解人工智能的基本概念和应用领域，同时了解计算机硬件设备的简单工作原理。课程内容分成三个主线：Python 语言编程、树莓派硬件控制、人工智能算法。
 
@@ -15,7 +15,7 @@
 
 课程的最后还需要同学们完成一个综合项目，利用现有的硬件资源，实现一个有一定趣味性、创新性的智能应用。项目独立完成，可以参考网络上的现有资源，可以使用开源的代码和程序，但必须有自己设计的部分，最后的作品应可以演示。
 
-## :fontawesome-solid-info: 课程简介
+## :fontawesome-solid-info: 课程简介 {#course-intro}
 
 计算机技术的主要应用场景除了 **“计算”** 之外，就是进行 **控制**。通过利用微处理器的计算能力，人们可以实现非常复杂的控制逻辑。随着电子技术的不断发展，微处理器的功能不断得到增强，而其芯片尺寸却不断的缩小，芯片的功耗也可以控制在合理的水平。这使得微处理器的应用场景越来越多，更多的工业产品被电子化，并被赋予了 **“智能”**。
 
@@ -25,7 +25,7 @@ Raspberry Pi 是一款性价比极高的 ARM 平台，自从推出就受到了�
 
 通过完成几个基础实验对开发平台进行熟悉，学生将完成一个较为复杂的智能系统的项目设计。项目实验自主命题，学生可以在 Raspberry Pi 平台上将自己的创意变成现实。
 
-## :simple-outline: 课程大纲
+## :simple-outline: 课程大纲 {#course-outline}
 
 本课程通过使用 Raspberry Pi 平台，让学生了解通过程序如何控制硬件工作，如何获取各种传感器数据，如何实现一个以处理器为中心的控制系统。
 
@@ -59,3 +59,16 @@ Raspberry Pi 是一款性价比极高的 ARM 平台，自从推出就受到了�
 2. 项目实验成绩占百分之五十，包括题目的完成度和最后展示的效果
 
 每次实验的结果都需要上交实验报告，实验报告的完成程度也会反映到成绩中。
+
+## :material-newspaper-variant: 参考文献 {#references}
+
+1. *OpenCV: Trackbar as the Color Palette*. url: [https://docs.opencv.org/4.x/d9/dc8/tutorial_ py_trackbar.html](https://docs.opencv.org/4.x/d9/dc8/tutorial_py_trackbar.html) (visited on 06/23/2022).
+2. *OpenCV: Arithmetic Operations on Images*. url: https[://docs.opencv.org/4.x/d0/d86/ tutorial_py_image_arithmetics.html](https://docs.opencv.org/4.x/d0/d86/tutorial_py_image_arithmetics.html).
+3. *Hough Transform*. In: *Wikipedia*. Feb. 20, 2022. url: [https://en.wikipedia.org/w/index.php? title=Hough_transform&oldid=1073024927](https://en.wikipedia.org/w/index.php?title=Hough_transform&oldid=1073024927).
+4. *OpenCV: Geometric Transformations of Images*. url: https[://docs.opencv.org/4.x/da/d6e/ tutorial_py_geometric_transformations.html](https://docs.opencv.org/4.x/da/d6e/tutorial_py_geometric_transformations.html).
+5. *NumPy Quickstart* —*NumPy v1.24.Dev0 Manual*. url: [https://numpy.org/devdocs/user/ quickstart.html](https://numpy.org/devdocs/user/quickstart.html).
+6. *BCM2711 ARM Peripherals*. url: [https://datasheets.raspberrypi.com/bcm2711/bcm2711- peripherals.pdf](https://datasheets.raspberrypi.com/bcm2711/bcm2711-peripherals.pdf).
+7. M.J. Swain and D.H. Ballard. “Indexing via Color Histograms”. In: *[1990] Proceedings Third In- ternational Conference on Computer Vision*. [1990] Proceedings Third International Conference on Computer Vision. 1990, pp. 390–393. doi: [10.1109/ICCV.1990.139558](https://doi.org/10.1109/ICCV.1990.139558).
+8. *Face Detection: Facial Recognition and Finding Homepage*. Mar. 13, 2015. url: [https://facedetection.com/](https://facedetection.com/)(visited on 07/27/2022).
+9. P. Viola and M. Jones. “Rapid Object Detection Using a Boosted Cascade of Simple Features”.
+In: *Proceedings of the 2001 IEEE Computer Society Conference on Computer Vision and Pattern Recognition. CVPR 2001*. 2001 IEEE Computer Society Conference on Computer Vision and Pattern Recognition. CVPR 2001. Vol. 1. Kauai, HI, USA: IEEE Comput. Soc, 2001, pp. I-511-I–518. isbn: 978-0-7695-1272-3. doi: [10.1109/CVPR.2001.990517.](https://doi.org/10.1109/CVPR.2001.990517)
