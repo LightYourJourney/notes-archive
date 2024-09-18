@@ -16,7 +16,7 @@ venv-mkdocs/
 .idea/
 .cache/
 .env/
-.vscode/
+# .vscode/
 
 # macOS
 .DS_Store
