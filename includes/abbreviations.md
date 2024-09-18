@@ -145,3 +145,7 @@
 *[CGI]: Common Gateway Interface
 *[WAV]: Waveform Audio File Format
 *[VNC]: Virtual Network Computing
+*[CANN]: Compute Architecture for Neural Networks
+*[ACL]: Ascend Computing Language
+*[TOPS]: Tera Operations Per Second
+*[pyACL]: Python Ascend Computing Language
