@@ -219,28 +219,28 @@ print('You␣are␣a␣kid')
 
 ## :octicons-circle-16: 循环 {#loop}
 
-Python的循环有两种，一种是for...in循环，另一种是while循环。for...in循环可以依次将列表中的每个元素迭代出来。例如：
+Python 的循环有两种，一种是 for...in 循环，另一种是 while 循环。for...in 循环可以依次将列表中的每个元素迭代出来。例如：
 
 ```python linenums="1"
 for i in [0,1, 2, 3, 4, 5, 6, 7, 8, 9]:
 print(i)
 ```
 
-可以利用Python提供的range()函数控制for循环，range()函数可以产生一个整数序列。上面利用 for循环的求和代码可用range()函数进行简化。
+可以利用 Python 提供的 range() 函数控制 for 循环，range() 函数可以产生一个整数序列。上面利用 for 循环的求和代码可用 range() 函数进行简化。
 
 ```python linenums="1"
 for i in range(0,10): # 从 0 循环至 9
 print(i)
 ```
 
-另外，range()函数产生的整数序列可以指定步进值，例如：
+另外，range() 函数产生的整数序列可以指定步进值，例如：
 
 ```python linenums="1"
 for i in range(0,10,2): # 从 0 循环至 9，步进值为 2
 print(i)
 ```
 
-Python的while循环只要条件满足就不断循环，条件不满足时退出循环。例如：
+Python 的 while 循环只要条件满足就不断循环，条件不满足时退出循环。例如：
 
 ```python linenums="1"
 n = 1 while n <= 100:
@@ -248,7 +248,7 @@ print(n)
 n = n + 1
 ```
 
-对于循环语句，可以通过break语句退出循环或通过continue语句跳过当前循环。例如：
+对于循环语句，可以通过 break 语句退出循环或通过 continue 语句跳过当前循环。例如：
 
 ```python linenums="1"
 n = 1 while n <= 100:

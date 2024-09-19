@@ -123,7 +123,6 @@
 *[Mac]: Macintosh
 *[UNIX]: Uniplexed Information and Computing Service
 *[cmd]: Command Prompt
-*[GPIO]: General Purpose Input/Output
 *[SoC]: System on Chip
 *[SPI]: Serial Peripheral Interface
 *[I2C]: Inter-Integrated Circuit
@@ -145,7 +144,13 @@
 *[CGI]: Common Gateway Interface
 *[WAV]: Waveform Audio File Format
 *[VNC]: Virtual Network Computing
+<<<<<<< Updated upstream
 *[CANN]: Compute Architecture for Neural Networks
 *[ACL]: Ascend Computing Language
 *[TOPS]: Tera Operations Per Second
 *[pyACL]: Python Ascend Computing Language
+=======
+*[LCG]: Linear Congruence Generator
+*[LED]: Light Emitting Diode
+*[GPIO]: General Purpose Input Output
+>>>>>>> Stashed changes
