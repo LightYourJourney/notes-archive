@@ -1334,7 +1334,7 @@ nav:
               - ee/pi/llm/index.md
               - 🧐 Transformer 模型: ee/pi/llm/transformer.md
               - 🧠 大语言模型: ee/pi/llm/intro.md
-              - 📚 python API接口: ee/pi/llm/py-api.md
+              - 📚 Python API接口: ee/pi/llm/py-api.md
               - 🤖 动手实验：调用大语言模型: ee/pi/llm/prac.md
           - 🧪 综合实验:
               - ee/pi/practice/index.md
