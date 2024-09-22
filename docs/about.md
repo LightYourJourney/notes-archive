@@ -159,6 +159,10 @@ nostatistics: true
 
 喜欢登山，游泳，乒乓球。
 
+## :material-music: 音乐 {#music}
+
+最爱的歌：[Lost Good Things](https://music.163.com/#/song?id=27591655)
+
 ## :simple-github: GitHub Stats {#github-stats}
 
 <figure markdown="span">
