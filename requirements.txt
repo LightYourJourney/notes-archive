@@ -94,4 +94,4 @@ traitlets==5.14.3
 urllib3==2.2.2
 watchdog==5.0.1
 webencodings==0.5.1
-zipp==3.20.1
+zipp==3.20.2
