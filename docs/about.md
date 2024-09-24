@@ -14,7 +14,7 @@ nostatistics: true
   <p>学工科的文科生，学文科的工科生。</p>
   <p>影迷一枚，偶尔写写影评。</p>
   <p>相比喧闹，更爱独处。</p>
-  <p>INTJ。</p>
+  <p>INTJ-A。</p>
 </div>
 
 ## :material-book-education-outline: 教育经历 {#education}
