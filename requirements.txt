@@ -68,7 +68,7 @@ pandocfilters==1.5.1
 pathspec==0.12.1
 pillow==10.4.0
 pip-tools==7.4.1
-platformdirs==4.3.2
+platformdirs==4.3.6
 pycparser==2.22
 pycryptodome==3.20.0
 Pygments==2.18.0
