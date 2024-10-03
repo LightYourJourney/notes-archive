@@ -155,7 +155,7 @@ wsl --import Ubuntu D:\WSL\Ubuntu D:\WSL\Ubuntu.tar --version 2
 
 在安装完成后激活时选择“将 VMware Workstation 17 用于个人用途”即可免费完成激活。
 
-1. 需要进入 BIOS 开启虚拟化功能，有关该功能的选项一般在 BIOS 中的 `Configuration` 选项中。若是 Intel 的 CPU 则名为 `VT-x` （或写为 `Intel Virtualization Technology`)，若是 AMD 的 CPU 则是 `AMD-V` ，将其改为 `Enable` 即可开启。
+1. 需要进入 BIOS 开启虚拟化功能，有关该功能的选项一般在 BIOS 中的 `Configuration` 选项中。若是 Intel 的 CPU 则名为 `VT-x`（或写为 `Intel Virtualization Technology`)，若是 AMD 的 CPU 则是 `AMD-V` ，将其改为 `Enable` 即可开启。
 
 #### :simple-processwire: 安装过程
 

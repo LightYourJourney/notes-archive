@@ -114,7 +114,7 @@ Linux 和 macOS 系统下，文件不论存放何处，都组织在一棵抽象�
 
 Linux 下惯用斜杠 /，Windows 下惯用反斜杠 \两种习惯的不同常常引起混淆
 
-### :material-delete: 删除无用文件（慎） {#delete-junk-files}
+### :material-delete: 删除无用文件（慎）{#delete-junk-files}
 
 - 垃圾文件
 

@@ -1,6 +1,6 @@
 # :simple-linux: 操作系统环境
 
-树莓派中运行的操作系统是定制的 [Raspberry Pi OS](https://www.raspberrypi.com/software/)，它基于 Linux 发行版 [Debian](https://www.debian.org/)，专门为树莓派的硬件所优化。Linux 操作系统内核是 1991 年由芬兰学生 Linux Torvalds 首先公开发布的，它的发行遵循 GPL （GNU General Public License）协议，在 Internet 上不断被发展和完善。由于 Linux 的开放源代码的特性，很多优秀的程序员加入到 Linux 的开发行列，使得 Linux 的发展非常迅速，成为今天无论在服务器平台还是在嵌入式平台都非常具有竞争力的操作系统。
+树莓派中运行的操作系统是定制的 [Raspberry Pi OS](https://www.raspberrypi.com/software/)，它基于 Linux 发行版 [Debian](https://www.debian.org/)，专门为树莓派的硬件所优化。Linux 操作系统内核是 1991 年由芬兰学生 Linux Torvalds 首先公开发布的，它的发行遵循 GPL（GNU General Public License）协议，在 Internet 上不断被发展和完善。由于 Linux 的开放源代码的特性，很多优秀的程序员加入到 Linux 的开发行列，使得 Linux 的发展非常迅速，成为今天无论在服务器平台还是在嵌入式平台都非常具有竞争力的操作系统。
 
 ## :material-bash: Linux 命令行简介 {#linux-cmd}
 

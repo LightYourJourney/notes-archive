@@ -113,7 +113,7 @@
 - 个人电脑：
     - Microsoft Windows (68%)
     - macOS (Apple Inc.) (20%)
-    - Linux （7%; 服务器中占主导）
+    - Linux（7%; 服务器中占主导）
 
 - 移动设备：
     - Android (68.92%)
@@ -149,7 +149,7 @@
 
 ### :material-usb: 外设接口简介 {#interfaces}
 
-### :material-google-classroom: 互动：了解自己的设备（查看外壳标签、型号和参数，观察外设接口，查看系统信息） {#check}
+### :material-google-classroom: 互动：了解自己的设备（查看外壳标签、型号和参数，观察外设接口，查看系统信息）{#check}
 
 - A/B/C/D 面
 

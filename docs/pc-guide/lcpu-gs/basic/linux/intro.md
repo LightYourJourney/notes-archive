@@ -174,7 +174,7 @@ The key fingerprint is:
 SHA256:pIgUUsvjS+NgxWpVDBILelQKOWp/jTzr1xEOVWxjN/c lsz@debian
 ```
 
-第一个问题询问的是生成的密钥（私钥）保存的文件位置及文件名，linux 下默认是 `~/.ssh/id_rsa` 这个文件，对应的公钥文件为 `~/.ssh/id_rsa.pub` （若采取不同的加密算法则文件名会有所区别）
+第一个问题询问的是生成的密钥（私钥）保存的文件位置及文件名，linux 下默认是 `~/.ssh/id_rsa` 这个文件，对应的公钥文件为 `~/.ssh/id_rsa.pub`（若采取不同的加密算法则文件名会有所区别）
 
 第二个问题询问的是是否为私钥设置密码保护 (passphrase)
 

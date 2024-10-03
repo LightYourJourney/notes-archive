@@ -68,21 +68,21 @@
 
 （Q：学完有什么用？能解决什么问题？需要一些例子来说明这个问题，但不急（×））
 
-### 知识的获取 （hd）
+### 知识的获取（hd）
 
 参考：[https://pku-software.github.io/24spring/middle_homework/document.html](https://pku-software.github.io/24spring/middle_homework/document.html)
 
 - STFW RTFM RTFSC
 - Ask questions
 - Try it by yourself
-- Roles of LLM （copilot）
+- Roles of LLM（copilot）
 
-### 计算机基本知识概览 I （lbh）
+### 计算机基本知识概览 I（lbh）
 
 - 基本软硬件的分类与发展历史
 - 操作系统分类简介（Windows Linux MacOS …）
 
-### Drive your computer I （ztq）
+### Drive your computer I（ztq）
 
 - 基本环境配置
 - 文件和文本的本质
@@ -96,26 +96,26 @@
 - Git 详解
 - 文件备份和冗余：重要性和常见方法
 
-### Drive your computer III （lyj）
+### Drive your computer III（lyj）
 
 - 小知识串讲，比如快捷键（Home End Shift 选择 复制粘贴）
 - 常见故障自查
-- 资源监控 （比如各种硬件的占用之类的…）
-- 网络资源获取（服务器、以及各类公开的资源（如社团提供的服务）…） 
+- 资源监控（比如各种硬件的占用之类的…）
+- 网络资源获取（服务器、以及各类公开的资源（如社团提供的服务）…）
 
 ### Drive your computer III（sjx）
 
-- 网络安全 
+- 网络安全
     -  常见的攻击手段、基本的安全上网习惯（比如不要弱密码）
     - 代理的基本原理和如何使用网络代理（？）
 - 操作系统和编程语言
 
-### 计算机基本知识概览 II （lbh）
+### 计算机基本知识概览 II（lbh）
 
-- 计算机基本体系结构 （储存器山 and …）
-- 计算机网络 （ip 地址/dns/协议 and …）
+- 计算机基本体系结构（储存器山 and …）
+- 计算机网络（ip 地址/dns/协议 and …）
 
-### Linux 与服务器介绍与基本使用 I （lsz）
+### Linux 与服务器介绍与基本使用 I（lsz）
 
 - Linux 安装、使用、基本命令
 - 虚拟机配置与使用
@@ -155,7 +155,7 @@
 
 #### 网络体系
 
-OS/I 7 层模型，常见应用层协议 HTTP(S, 加密的范围） DNS SMTP FTP，传输层了解 TCP UDP, 端口等概念，网络层了解 IP 基础知识（包括 v6），链路层 WiFi 以太网简介？其他不要求。
+OS/I 7 层模型，常见应用层协议 HTTP(S, 加密的范围）DNS SMTP FTP，传输层了解 TCP UDP, 端口等概念，网络层了解 IP 基础知识（包括 v6），链路层 WiFi 以太网简介？其他不要求。
 
 #### 网络安全
 

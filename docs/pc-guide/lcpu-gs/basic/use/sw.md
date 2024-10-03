@@ -58,7 +58,7 @@
 
 由于篇幅限制，请针对每个软件出现的问题，搜索相应的解决办法（因为每个软件的包名不同）。下面给出两个网站，介绍了相关问题的通用解决办法：
 
-[最新｜解决 Mac 安装软件的“已损坏，无法打开。 您应该将它移到废纸篓”问题 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/135948430)
+[最新｜解决 Mac 安装软件的“已损坏，无法打开。您应该将它移到废纸篓”问题 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/135948430)
 
 [无法打开 App 的可能解决方法 - Mac 指北 (leavelet.io)](https://macguide.leavelet.io/Bike/appnotopen.html)
 

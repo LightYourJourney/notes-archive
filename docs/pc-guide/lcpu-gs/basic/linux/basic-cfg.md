@@ -162,7 +162,7 @@ ps -ef | grep 进程关键字
 ```bash linenums="1"
 解压 1：bzip2 -d FileName.bz2
 解压 2：bunzip2 FileName.bz2
-压缩： bzip2 -z FileName
+压缩：bzip2 -z FileName
 ```
 
 .tar.bz2

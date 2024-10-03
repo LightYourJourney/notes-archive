@@ -27,4 +27,4 @@
 
 ## 资源汇总
 
-@PKUFlyingPig 在学习这门课中用到的所有资源和作业实现都汇总在 [PKUFlyingPig/CS61B - GitHub](https://github.com/PKUFlyingPig/CS61B) 中。  
+@PKUFlyingPig 在学习这门课中用到的所有资源和作业实现都汇总在 [PKUFlyingPig/CS61B - GitHub](https://github.com/PKUFlyingPig/CS61B) 中。

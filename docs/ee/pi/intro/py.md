@@ -153,7 +153,7 @@ Names.remove('Sarah') # 根据内容删除元素（只删除第一个匹配）
 Python 中的字符串、元组和列表都是有序结构，都可以用下标进行访问，可以统称为序列。序列的下标访问主要有下面几种方式：
 
 1. `seq[index]` 获得索引所在位置元素
-2. `seq[index1:index2(:stride)]` 获得索引从 index1 到 index2 的全部元素，stride 是步长，缺省为 1， index1 空缺表示从头开始，index2 空缺表示到最后一个元素，`seq[:]` 表示全部元素。
+2. `seq[index1:index2(:stride)]` 获得索引从 index1 到 index2 的全部元素，stride 是步长，缺省为 1，index1 空缺表示从头开始，index2 空缺表示到最后一个元素，`seq[:]` 表示全部元素。
 3. `seq1 + seq2` 连接两个序列
 4. `seq * expr` 序列元素重复 `expr` 遍当索引值为负时，它表示从序列最后一个元素开始计数，例如，`seq[-1]` 可以获得序列的最后一个元素。
 

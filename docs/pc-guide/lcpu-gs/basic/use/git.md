@@ -75,15 +75,15 @@ git init
 如果你看到如下内容，意思是你系统的 git 默认选择了 master 作为主分支的名字。目前我们推荐使用 main 作为主分支的名字，你可以根据它的建议进行配置：
 
 ```
-提示： 使用 'master' 作为初始分支的名称。这个默认分支名称可能会更改。要在新仓库中
-提示： 配置使用初始分支名，并消除这条警告，请执行：
+提示：使用 'master' 作为初始分支的名称。这个默认分支名称可能会更改。要在新仓库中
+提示：配置使用初始分支名，并消除这条警告，请执行：
 提示：
-提示：  git config --global init.defaultBranch <名称>
+提示： git config --global init.defaultBranch <名称>
 提示：
-提示： 除了 'master' 之外，通常选定的名字有 'main'、'trunk' 和 'development'。
-提示： 可以通过以下命令重命名刚创建的分支：
+提示：除了 'master' 之外，通常选定的名字有 'main'、'trunk' 和 'development'。
+提示：可以通过以下命令重命名刚创建的分支：
 提示：
-提示：  git branch -m <name>
+提示： git branch -m <name>
 ```
 
 ### :simple-editorconfig: 配置 Git {#config-git}
@@ -132,8 +132,8 @@ git status
 尚无提交
 
 要提交的变更：# 这里就是暂存区，笔者注
-  （使用 "git rm --cached <文件>..." 以取消暂存）
-        新文件：   example1.txt
+ （使用 "git rm --cached <文件>..." 以取消暂存）
+        新文件：  example1.txt
 ```
 
 ### :octicons-git-commit-16: 提交你的更改 {#commit-your-changes}
@@ -148,7 +148,7 @@ git commit -m "My first commit
 ```
 达到同样的效果。此时你应该能看到如下信息：
 ```
-[master（根提交） 7a6ab77] My first commit
+[master（根提交）7a6ab77] My first commit
  1 file changed, 1 insertion(+)
  create mode 100644 example1.txt
 ```
@@ -260,7 +260,7 @@ git status
 ```
 位于分支 master
 未跟踪的文件：
-  （使用 "git add <文件>..." 以包含要提交的内容）
+ （使用 "git add <文件>..." 以包含要提交的内容）
         confidential/
         main.o
 
@@ -275,7 +275,7 @@ git status
 ```
 位于分支 master
 未跟踪的文件：
-  （使用 "git add <文件>..." 以包含要提交的内容）
+ （使用 "git add <文件>..." 以包含要提交的内容）
         .gitignore
 
 提交为空，但是存在尚未跟踪的文件（使用 "git add" 建立跟踪）

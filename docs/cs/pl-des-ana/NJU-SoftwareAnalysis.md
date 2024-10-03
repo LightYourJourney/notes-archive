@@ -29,4 +29,4 @@
 - 课程视频：[Bilibili](https://www.bilibili.com/video/BV1b7411K7P4/?spm_id_from=333.999.0.0&vd_source=b58da8cd0259ee873ef3dc2c9aa36d74)
 - 课程教材：无
 - 课程作业：[实验主页](https://tai-e.pascal-lab.net/intro/overview.html)
-- 在线评测： [OJ](https://oj.pascal-lab.net/problem)
+- 在线评测：[OJ](https://oj.pascal-lab.net/problem)

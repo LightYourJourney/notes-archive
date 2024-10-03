@@ -75,7 +75,7 @@
 
 1. 前往 [谷雨同学的预编译 MinGW 下载](https://gytx.lanzoui.com/b01bpa41i)（提取码 cgzy），下载 `gytx_x86_64-14.1.0-win32-seh-ucrt.7z` 文件。这是基于 `GCC 14.1.0` 的 `MinGW64` 预编译二进制，GCC 默认标准为 `C++17`），解压到某个目录（这里以 `C:\mingw64_14.1.0` 为例）。
 
-2. 点击任务栏的 Windows 徽标，搜索“环境变量”，找到“编辑系统环境变量”，点击进入，找到界面右下角的“环境变量 (N)..."按钮，进入后，在系统变量栏找到 Path，双击后，点击"新建 (N)"，键入引号里面的内容： "C:\mingw64_14.1.0\bin" , 然后依次对三个窗口点击确定。
+2. 点击任务栏的 Windows 徽标，搜索“环境变量”，找到“编辑系统环境变量”，点击进入，找到界面右下角的“环境变量 (N)..."按钮，进入后，在系统变量栏找到 Path，双击后，点击"新建 (N)"，键入引号里面的内容："C:\mingw64_14.1.0\bin" , 然后依次对三个窗口点击确定。
 
 （请确定"C:\mingw64_14.1.0\bin"是真实存在的路径，其中包括`g++.exe`如果不是，请根据实际情况修改）
 
@@ -85,7 +85,7 @@
 
 我们推荐如下插件：`C/C++`，`C/C++ Extension Pack`，`C/C++ Themes`，`Python`，`Python Debugger`，`Pylance`。
 
-**注意**：需要使用简体中文界面的同学，请搜索 “简体中文”，找到 “Chinese (Simplified)（简体中文） Language Pack for Visual Studio Code”，安装后右下角会自动提示重启 VS Code 并更换显示语言。
+**注意**：需要使用简体中文界面的同学，请搜索 “简体中文”，找到 “Chinese (Simplified)（简体中文）Language Pack for Visual Studio Code”，安装后右下角会自动提示重启 VS Code 并更换显示语言。
 
 #### :space_invader: VS Code 的工作逻辑是什么？ {#vscode-workspace}
 
@@ -166,7 +166,7 @@ rm -rf brew-install
 #### :octicons-terminal-16: brew 的基本使用以及 GCC 的安装方法 {#brew-usage}
 
 - **查看 brew 版本**：`brew -v`
-- **查看 brew 已安装的包列表**： `brew list`
+- **查看 brew 已安装的包列表**：`brew list`
 - **查看某个包的信息**：`brew info`。如查看`xz`的信息：`brew info xz`
 - **安装包**：`brew install`。如`brew install python3`
 - **更新包**：`brew upgrade`。使用方法同上。

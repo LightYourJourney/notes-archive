@@ -14,6 +14,6 @@
 
 - 课程网站：http://staff.ustc.edu.cn/~lgliu/Courses/ComputerGraphics_2020_spring-summer/default.htm
 - 课程视频：https://www.bilibili.com/video/BV1iT4y1o7oM/?spm_id_from=333.880.my_history.page.click&vd_source=eea47a16439992e41b232bc5d5684e27
-- 课程教材：本课程不规定使用规定教材，以学术前沿论文为主，以下教材仅仅为参考 E. Angel, Interactive Computer Graphics — A top-down approach using OpenGL™, 6th ed., 2011. （中文翻译版：交互式计算机图形学—基于 OpenGL 的自顶向下方法（第五版），电子工业出版社，2012）
+- 课程教材：本课程不规定使用规定教材，以学术前沿论文为主，以下教材仅仅为参考 E. Angel, Interactive Computer Graphics — A top-down approach using OpenGL™, 6th ed., 2011.（中文翻译版：交互式计算机图形学—基于 OpenGL 的自顶向下方法（第五版），电子工业出版社，2012）
 - 课程作业：http://staff.ustc.edu.cn/~lgliu/Courses/ComputerGraphics_2020_spring-summer/default.htm ，九个作业加一个 Project ，具体看官网
 

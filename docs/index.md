@@ -13,11 +13,11 @@ statistics: true
 
 ??? info "站点统计"
     页面总数：{{pages}}
-    
+
     总字数：{{words}}
-    
+
     代码块行数：{{codes}}
-    
+
     网站运行时间：<span id="web-time"></span>
 
 ### :material-briefcase-check: 简介 {#intro}
@@ -85,7 +85,7 @@ mkdocs serve
 
 你可以在这里更改网站主题的颜色。
 
-##### :material-format-color-fill: 主色（Primary Colors） {#primary-colors}
+##### :material-format-color-fill: 主色（Primary Colors）{#primary-colors}
 
 > 默认是 `Indigo`
 
@@ -122,7 +122,7 @@ mkdocs serve
   })
 </script>
 
-##### :material-invert-colors: 辅助色（Accent Colors） {#accent-colors}
+##### :material-invert-colors: 辅助色（Accent Colors）{#accent-colors}
 
 > 默认是 `Indigo`
 

@@ -27,7 +27,7 @@
     |                                                        |
     | for i in circles[0,:]:                                 |
 
-   利用 OpenCV 对该照片进行一些简单的操作如颜色变换、矫正处理。 Perspective Transformation 是 OpenCV 中的一个功能，它允许你将图像从一个透视投影转换到另一个透视投影，常用于校正图像的透视 畸变或者提取特定区域的图像 [^3]）。
+   利用 OpenCV 对该照片进行一些简单的操作如颜色变换、矫正处理。Perspective Transformation 是 OpenCV 中的一个功能，它允许你将图像从一个透视投影转换到另一个透视投影，常用于校正图像的透视 畸变或者提取特定区域的图像 [^3]）。
 
 使用透视变化需要先定义原始图像中的四个顶点坐标以及目标图像中的对应顶点坐标：
 
@@ -38,9 +38,9 @@
 | original\_points = np.float32([[x1, y1], [x2, y2], [x3, y3], [x4, y4]])            |
 | target\_points = np.float32([[x1\_prime, y1\_prime], [x2\_prime, y2\_prime],       |
 | [x3\_prime, y3\_prime], [x4\_prime, y4\_prime]])                                   |
-| # 计 算 透 视 变 换 矩 阵：                                                        |
+| # 计 算 透 视 变 换 矩 阵：                                                       |
 | perspective\_matrix = cv.getPerspectiveTransform(original\_points, target\_points) |
-| # 进 行 透 视 变 换：                                                              |
+| # 进 行 透 视 变 换：                                                             |
 | output\_image = cv.warpPerspective(image, perspective\_matrix, (width, height))    |
 
 1 2 3 4 5 6 7 8 9
@@ -91,7 +91,7 @@
 3. 注意事项
 1. Numpy 库的使用
 
-   Numpy 库主要用于 Python 数组的运算，也是 OpenCV 关于图片处理的基础。 Numpy 数组的 主要属性有 ndim,shape,size,dtype,itemsize 等， Numpy 提供了丰富的处理函数及矩阵运算函数，
+   Numpy 库主要用于 Python 数组的运算，也是 OpenCV 关于图片处理的基础。Numpy 数组的 主要属性有 ndim,shape,size,dtype,itemsize 等，Numpy 提供了丰富的处理函数及矩阵运算函数，
 
    如 arange(),zeros(),reval(),reshape(),sort()等。Numpy 库的使用可以参考 [5] 中获得帮助。
 
@@ -101,4 +101,4 @@
 
 3. OpenCV 中性能的评估
 
-   为评估算法的运算性能， OpenCV 中也提供了对于的函数如 getTickCount(),getTickFrequency()等 通过获取计算的时间来评估算法的性能。
+   为评估算法的运算性能，OpenCV 中也提供了对于的函数如 getTickCount(),getTickFrequency()等 通过获取计算的时间来评估算法的性能。
