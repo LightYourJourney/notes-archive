@@ -2,7 +2,7 @@
 nostatistics: true
 ---
 
-# 第十二章 大语言模型简介
+# :simple-chatbot: 第十二章 大语言模型简介
 
 <div class="grid cards" markdown>
 

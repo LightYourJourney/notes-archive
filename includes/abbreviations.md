@@ -145,3 +145,5 @@
 *[CGI]: Common Gateway Interface
 *[WAV]: Waveform Audio File Format
 *[VNC]: Virtual Network Computing
+*[RNN]: Recurrent Neural Network
+*[LSTM]: Long Short-Term Memory
