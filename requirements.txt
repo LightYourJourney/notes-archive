@@ -57,7 +57,7 @@ mkdocs-print-site-plugin==2.6.0
 mkdocs-rss-plugin==1.15.0
 mkdocs-static-i18n==1.2.3
 mkdocs-statistics-plugin==0.1.3
-mknotebooks==0.8.0.post0.dev1
+mknotebooks==0.8.0.post0.dev32
 msgpack==1.1.0
 nbclient==0.10.0
 nbconvert==7.16.4
