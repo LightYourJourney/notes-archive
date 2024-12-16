@@ -59,7 +59,7 @@ mkdocs-static-i18n==1.2.3
 mkdocs-statistics-plugin==0.1.4
 mknotebooks==0.8.0.post0.dev32
 msgpack==1.1.0
-nbclient==0.10.0
+nbclient==0.10.1
 nbconvert==7.16.4
 nbformat==5.10.4
 packaging==24.1
