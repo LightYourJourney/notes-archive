@@ -10,7 +10,7 @@ CairoSVG==2.7.1
 certifi==2024.8.30
 cffi==1.17.1
 charset-normalizer==3.3.2
-click==8.1.7
+click==8.1.8
 colorama==0.4.6
 csscompressor==0.9.5
 cssselect2==0.7.0
