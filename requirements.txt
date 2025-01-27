@@ -15,7 +15,7 @@ colorama==0.4.6
 csscompressor==0.9.5
 cssselect2==0.7.0
 defusedxml==0.7.1
-EditorConfig==0.12.4
+EditorConfig==0.17.0
 fastjsonschema==2.21.1
 filelock==3.16.1
 ghp-import==2.1.0
